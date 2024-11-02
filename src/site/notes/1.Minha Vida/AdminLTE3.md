@@ -1,8 +1,10 @@
 ---
-{"Title":"AdminLTE3","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1-minha-vida/admin-lte-3/","dgPassFrontmatter":true}
+Title: AdminLTE3
+created: 2024-06-14
+dg-publish: true
+tags: pessoal/estudos, pessoal/web
 ---
-
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ## Configurando ambiente
 - [Laragon](https://laragon.org/download/index.html)
     - php 8.1

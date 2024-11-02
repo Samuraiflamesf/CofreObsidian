@@ -1,7 +1,11 @@
 ---
-{"Title":"Livros de Gastronomia","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/livros"],"permalink":"/1-minha-vida/livros-de-gastronomia/","dgPassFrontmatter":true}
+Title: Livros de Gastronomia
+created: 2024-06-14
+dg-publish: true
+tags:
+  - pessoal/list
+  - pessoal/livros
 ---
-
 |[Voltar](index)|
 #### Geral
 - Chef Profissional do Instituto Amercano da Gastronomia|(R$210)

@@ -1,8 +1,11 @@
 ---
-{"Title":"Amigos","dg-publish":true,"criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1-minha-vida/amigos/","dgPassFrontmatter":true}
+Title: Amigos
+dg-publish: true
+criada: 2024-06-14
+tags:
+  - pessoal/poesias
 ---
-
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 "Você é aquela pessoa que chegou do nada e em pouco tempo fez minha vida melhor!"
 "Era uma pessoa igual a cem mil outras pessoas, mas eu fiz dela um amigo, agora ela é única no mundo! 🙃🙃💗"
 " A amizade não é sobre quem veio antes ou depois, é sobre quem veio e nunca foi embora!❤❤"

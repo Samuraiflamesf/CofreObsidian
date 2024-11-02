@@ -4,7 +4,7 @@ created: 2024-06-14
 dg-publish: true
 tags: pessoal/estudos, pessoal/web
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 #### Instalando
 ```
 sudo apt-get install samba

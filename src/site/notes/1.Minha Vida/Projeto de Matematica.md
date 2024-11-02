@@ -1,9 +1,13 @@
 ---
-{"title":"Projeto de Matemática","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","atividades"],"permalink":"/1-minha-vida/projeto-de-matematica/","dgPassFrontmatter":true}
+title: Projeto de Matemática
+created: 2024-08-12
+dg-publish: true
+tags:
+  - pessoal/estudos
+  - pessoal/quaseumdev
+  - atividades
 ---
-
-[Voltar](1.LIFE/index)
-[[1.Minha Vida/Artigos_IA\|Artigos_IA]]
+| [Voltar](index) | [[1.Minha Vida/Artigos_IA\|Artigos_IA]] |
 ### Principais Conceitos
 Fundamentos da Curva Braquistócrona:
 - Definição da curva braquistócrona.

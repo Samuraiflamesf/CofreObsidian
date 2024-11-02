@@ -5,6 +5,7 @@ tags:
   - pessoal/quaseumdev
   - pessoal/estudos
 ---
+|[Voltar](index)|
 ## Introdução sobre Python 
 - Melhorar o desempenho (Utilizar dicionario para dados)
 - Tipos de dados

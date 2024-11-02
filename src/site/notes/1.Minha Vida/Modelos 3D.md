@@ -4,7 +4,7 @@ created: 2024-06-14
 dg-publish: true
 tags: pessoal/quaseumdev, atividades 
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ### Lista de Impressão:
 - [ ] Organizador de Bianca
 ### Coisas interessantes:

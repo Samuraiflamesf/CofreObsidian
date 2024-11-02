@@ -4,7 +4,7 @@ created: 2024-05-31
 dg-publish: true
 tags: pessoal/estudos, pessoal/web
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 Iniciando projeto Laravel:
 ```bash
 composer create-project laravel/laravel example-app

@@ -4,6 +4,7 @@ dg-publish: true
 tags:
   - pessoal
 ---
+|[Voltar](index)|
 ### Traços
 - Resistente
 - Aprendiz Rápido

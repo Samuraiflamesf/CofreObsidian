@@ -1,8 +1,10 @@
 ---
-{"Title":"Agr toma","criada":"2024-06-14","tags":["pessoal/poesias"],"dg-publish":true,"permalink":"/1-minha-vida/agr-toma/","dgPassFrontmatter":true}
+Title: Agr toma
+criada: 2024-06-14
+tags: pessoal/poesias
+dg-publish: true
 ---
-
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 Agr toma  
 -VOLTEI PORRA- estou de volta  
 Sintam a revolta, minha prosa  

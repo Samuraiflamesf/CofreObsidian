@@ -7,7 +7,7 @@ tags:
   - pessoal/quaseumdev
   - atividades
 ---
-
+| [Voltar](index) |
 > [!dica] Criando um dataframe:
 > dados = pd.DataFrame(lista)
 # Gráfico de colunas

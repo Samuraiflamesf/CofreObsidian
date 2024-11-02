@@ -6,7 +6,7 @@ tags:
   - pessoal/estudos
   - atividades
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ### Atividades
 - SPA
 	- [x] SPA - Minha mãe ✅ 2024-08-13

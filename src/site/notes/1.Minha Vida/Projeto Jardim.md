@@ -4,7 +4,7 @@ created: 2024-06-14
 dg-publish: true
 tags: pessoal/quaseumdev, atividades 
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 💡 Sistema de regar as plantas por coletar agua da chuva e regar por tempo em tempo; Colocar motor para puxar agua.
 ![Untitled.png](/img/user/0.Settings/img/Untitled.png)
 ### Oque posso Fazer?

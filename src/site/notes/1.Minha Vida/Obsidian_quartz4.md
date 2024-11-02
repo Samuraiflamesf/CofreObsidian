@@ -5,7 +5,7 @@ tags:
   - pessoal/estudos
   - pessoal/web
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ### Criando um blog gratuito com github + obsidian
 Descubra como criar um blog fácil de manter e totalmente gratuito usando GitHub e Obsidian. Seguindo uma abordagem JAMstack minimalista e eficiente, seu blog exibirá conteúdo estático (JavaScript, CSS, HTML), eliminando a necessidade de um servidor de banco de dados.
 

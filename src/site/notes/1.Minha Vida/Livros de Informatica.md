@@ -6,7 +6,7 @@ tags:
   - pessoal/list
   - pessoal/livros
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 #### Python
   - Construindo Chatbots com Python: Usando Natural Language Processing e Machine Learning | R$41
  - Técnicas de Invasão: Aprenda as técnicas usadas por hackers em invasões reais | R$43

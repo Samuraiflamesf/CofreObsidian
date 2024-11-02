@@ -4,7 +4,7 @@ created: 2024-06-07
 dg-publish: true
 tags: pessoal/estudos, pessoal/web
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 Para qualquer busca feita no Google, toda resposta terá a seguinte forma de exibição:
 - URL para o site correspondente;
 - Título;

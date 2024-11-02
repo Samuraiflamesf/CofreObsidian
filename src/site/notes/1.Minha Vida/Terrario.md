@@ -4,7 +4,7 @@ created: 2024-06-14
 dg-publish: true
 tags: pessoal/quaseumdev
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 **Materiais:**
 * Copo de vidro transparente
 * Pedras pequenas

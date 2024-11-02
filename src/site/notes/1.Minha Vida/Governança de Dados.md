@@ -7,7 +7,7 @@ tags:
   - pessoal/quaseumdev
   - atividades
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ## Resenha sobre o assunto:
 Ideia é utilizar o conhecimento das informações para tomar decisões ágeis e corretas.
 ![Pasted image 20240618155237.png](/img/user/0.Settings/img/Pasted%20image%2020240618155237.png)

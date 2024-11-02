@@ -1,14 +1,20 @@
 ---
-{"title":"Faculdade Data Science","created":"2024-06-20","dg-publish":true,"tags":["pessoal/estudos","pessoal/puc","moc"],"description":"Anotações sobre minha pós em Ciência de Dados Aplicada à Saúde.","permalink":"/1-minha-vida/data-science-puc/","dgPassFrontmatter":true}
+title: Faculdade Data Science
+created: 2024-06-20
+dg-publish: true
+tags:
+  - pessoal/estudos
+  - pessoal/puc
+  - moc
+description: Anotações sobre minha pós em Ciência de Dados Aplicada à Saúde.
 ---
-
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ## Disciplinas
 
 | [[1.Minha Vida/Data Discovery e Analytics\|Data Discovery e Analytics]]                | <center>x</center> | 11/03/2024 |
 | --------------------------------------------- | ------------------ | ---------- |
 | Cultura e Práticas Dataops e Mlops            | <center>x</center> | 01/04/2024 |
-| [[3.Caixa de Entrada/Estatística Geral - Teoria e Aplicações\|Estatística Geral - Teoria e Aplicações]]   | <center>x</center> | 22/04/2024 |
+| [[Estatística Geral - Teoria e Aplicações\|Estatística Geral - Teoria e Aplicações]]   | <center>x</center> | 22/04/2024 |
 | [[1.Minha Vida/Qualidade de Dados em Saúde para IA\|Qualidade de Dados em Saúde para IA]]       | <center>x</center> | 13/05/2024 |
 | Preparação e Integração de Dados              | <center>x</center> | 03/06/2024 |
 | Técnicas de Amostragem e Modelos de Regressão | <center>x</center> | 24/06/2024 |

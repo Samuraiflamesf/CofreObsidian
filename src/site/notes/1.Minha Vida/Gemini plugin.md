@@ -4,7 +4,7 @@ created: 2024-06-14
 dg-publish: true
 tags: pessoal/estudos, pessoal/web
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 O plugin integra a IA ao Obsidian, permitindo:
 * **Respostas instantâneas:** Gera respostas detalhadas para perguntas.
 * **Expansão de ideias:** Fornece sugestões para ampliar e melhorar ideias.

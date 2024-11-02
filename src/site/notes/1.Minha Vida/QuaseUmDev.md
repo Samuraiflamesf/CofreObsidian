@@ -4,7 +4,7 @@ created: 2024-06-14
 dg-publish: true
 tags: pessoal/quaseumdev
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ### Videos para Canal
 - [x] Instalar o Home Assistant no Proxmox
 - [ ] Testando CasaOS, CosmOS e UmbrelOS no Laranja PiZero 3 (4GB Ram)

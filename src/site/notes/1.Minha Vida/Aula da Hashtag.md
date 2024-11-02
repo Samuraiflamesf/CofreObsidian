@@ -4,7 +4,7 @@ created: 2024-06-14
 dg-publish: true
 tags: pessoal/estudos, pessoal/web, dataScience
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ## Resenha sobre o assunto:
 **Ciência de Dados:** Analisa big data para prever tendências futuras.
 **Análise de Dados:** Explora dados para entender o que aconteceu.

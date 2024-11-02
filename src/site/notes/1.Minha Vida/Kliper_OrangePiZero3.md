@@ -5,6 +5,7 @@ tags:
   - pessoal/estudos
   - pessoal/web
 ---
+| [Voltar](index) |
 Para OrangePi Debian:
 username: orangepi 
 password: orangepi

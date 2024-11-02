@@ -1,7 +1,10 @@
 ---
-{"title":"Madre de deus","created":"2024-09-11","dg-publish":true,"tags":["pessoal/viagem"],"permalink":"/1-minha-vida/madre-de-deus/","dgPassFrontmatter":true}
+title: Madre de deus
+created: 2024-09-11
+dg-publish: true
+tags:
+  - pessoal/viagem
 ---
-
 | [Voltar](index) |
 _Amigos  uma coisa muito interessante acabou de aparecer na minha mesa, provavelmente é a melhor coisa que vi nos últimos seis meses._
 **Passeio nas Ilhas Encantadas**

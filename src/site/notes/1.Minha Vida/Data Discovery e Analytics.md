@@ -7,7 +7,7 @@ tags:
   - pessoal/puc
   - pessoal/web
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ### KPI
 KPI é indicador, sua criação é junção de Objetivos com as Métricas.
     O indicador e uma medica de ordem quantitativa ou qualitativa.

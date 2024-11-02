@@ -4,7 +4,7 @@ created: 2024-05-24
 dg-publish: true
 tags: pessoal/estudos
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 #### Atalho Para VS Code:
 ```
 ctrl + shift + v => Abrir modo de Visualização

@@ -2,7 +2,7 @@
 {"Title":"Criando Um Segundo Cérebro","created":"2024-06-14","dg-publish":true,"tags":["pessoal/livros","pessoal/ReviewCaos"],"permalink":"/4-review-do-caos/criando-um-segundo-cerebro/","dgPassFrontmatter":true}
 ---
 
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ## Resenha sobre o livro:
 Criando Um Segundo Cérebro: Um Método para Organizar Sua Vida e Ganhar Mais Tempo
 **Como Funciona**
@@ -23,6 +23,6 @@ O método "Segundo Cérebro" se baseia nos seguintes princípios:
 **Conclusão**
 "Criando Um Segundo Cérebro" é um guia valioso para pessoas que buscam melhorar sua organização, aumentar sua produtividade e recuperar o controle de suas vidas ocupadas. Ao seguir os princípios e práticas descritos neste livro, você pode criar uma poderosa ferramenta que otimizará sua vida pessoal e profissional.
 ### References
-1. [[Criando-um-Segundo-Cérebro-Um-método.pdf\|Criando-um-Segundo-Cérebro-Um-método.pdf]]
+1. [[Criando Um Segundo Cérebro Um Método.pdf]]
 
 

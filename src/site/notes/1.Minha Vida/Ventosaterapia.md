@@ -5,6 +5,7 @@ tags:
   - pessoal/estudos
   - pessoal/livros
 ---
+|[Voltar](index)|
 ![Pasted image 20240713224921.png](/img/user/0.Settings/img/Pasted%20image%2020240713224921.png)
 
 

@@ -1,8 +1,14 @@
 ---
-{"title":"Aprendendo Python","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","moc"],"description":"Anotações sobre meu estudo em python.","permalink":"/1-minha-vida/aprendendo-python/","dgPassFrontmatter":true}
+title: Aprendendo Python
+created: 2024-08-12
+dg-publish: true
+tags:
+  - pessoal/estudos
+  - pessoal/quaseumdev
+  - moc
+description: Anotações sobre meu estudo em python.
 ---
-
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 > [!dica]  Esssas seram as notas utilizando para aprender python
 ## Conteúdos
     [[Configuração de ambiente\|Configuração de ambiente]]

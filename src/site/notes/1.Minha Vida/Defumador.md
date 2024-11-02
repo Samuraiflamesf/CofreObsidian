@@ -4,7 +4,7 @@ created: 2024-06-14
 dg-publish: true
 tags: pessoal/quaseumdev 
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 💡 Para meus primeiros passos na charcutaria, preciso de um defumador de tamanho reduzido. Com isso em mente, estou considerando as seguintes opções para facilitar meu processo:
 **Produtos que posso Defumar:**
 * Salame

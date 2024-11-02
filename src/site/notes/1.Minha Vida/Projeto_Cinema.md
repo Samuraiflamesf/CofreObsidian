@@ -4,7 +4,7 @@ created: 2024-06-14
 dg-publish: true
 tags: pessoal/estudos
 ---
-[Voltar](1.LIFE/index)
+| [Voltar](index) |
 ### Etapa 1: Definindo o palco para a magia
 - Escolha o local ideal:
 - Meça o ambiente:
