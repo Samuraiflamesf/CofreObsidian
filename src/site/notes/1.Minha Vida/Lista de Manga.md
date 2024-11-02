@@ -1,12 +1,8 @@
 ---
-Title: Lista de Manga
-created: 2024-06-14
-dg-publish: true
-tags:
-  - pessoal/list
-  - pessoal/livros
+{"dg-publish":true,"permalink":"/1-minha-vida/lista-de-manga/","tags":["pessoal/list","pessoal/livros"]}
 ---
-[Voltar](1.LIFE/index)
+
+| [Voltar](index) |
 TODO LIST com API de filmes, gerar classificação por ano, genero e talz
 - Her Summon
 - My Wife Is Actually The Emperor

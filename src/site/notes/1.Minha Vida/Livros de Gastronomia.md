@@ -1,12 +1,8 @@
 ---
-Title: Livros de Gastronomia
-created: 2024-06-14
-dg-publish: true
-tags:
-  - pessoal/list
-  - pessoal/livros
+{"dg-publish":true,"permalink":"/1-minha-vida/livros-de-gastronomia/","tags":["pessoal/list","pessoal/livros"]}
 ---
-[Voltar](1.LIFE/index)
+
+|[Voltar](index)|
 #### Geral
 - Chef Profissional do Instituto Amercano da Gastronomia|(R$210)
 - Le Cordon Bleu : Todas as técnicas culinárias|(R$150)

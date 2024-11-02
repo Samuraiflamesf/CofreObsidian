@@ -4,6 +4,8 @@
 
 
 | [Voltar](1.LIFE/index) | 
+<div class="book-covers">
+
 | Poster                                                                                                                                   | Title                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](https://pergamumweb.com.br/pergamumweb_ifrs/vinculos//000020/00002030.jpg)                                                           | [[0.Settings/books/A matemática do ensino médio Vol 3\|A matemática do ensino médio Vol 3]]                                             |
@@ -39,3 +41,5 @@
 
 { .block-language-dataview}
 
+{ .block-language-dataview}
+</div>

@@ -25,14 +25,11 @@
     - [[1.Minha Vida/Qualidade de Dados em Saúde para IA\|Qualidade de Dados em Saúde para IA]]
     - [[1.Minha Vida/Data Discovery e Analytics\|Data Discovery e Analytics]]
 - 🍲 Faculdade de [[1.Minha Vida/Gastronomia_UNIFACS\|Gastronomia_UNIFACS]]
-    - 
-
-::: hidden
+    - [[1.Minha Vida/Livros de Gastronomia\|Livros de Gastronomia]]
 # 💼 Notas de Trabalho
 - [[2.Trabalho/MapaProjetosTrabalho\|MapaProjetosTrabalho]]: Notas e informações relevantes para meus projetos e tarefas de trabalho.
 - [[2.Trabalho/MapadeAtividades\|MapadeAtividades]]: CheckList de atividades para serem resolvidas
 - [[2.Trabalho/MapaReuniõesTrabalho\|MapaReuniõesTrabalho]]: Anotações sobre as reuniões e eventos do Trabalho.  
-:::
 # 〽️ Estatísticas
 -   📖 Últimos Livros Adicionados
     - [[0.Settings/books/A matemática do ensino médio Vol 1\|A matemática do ensino médio Vol 1]]
