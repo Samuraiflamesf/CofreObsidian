@@ -1,13 +1,413 @@
+body.theme-dark {
+  background: linear-gradient(153deg, rgba(7, 20, 92, 1) 0%, rgba(10, 63, 140, 1) 51%, rgba(33, 24, 163, 1) 100%);
+}
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  overflow-x: hidden;
+  --note-icon-1: url(/img/star.svg);
+  --note-icon-2: url(/img/moon.svg);
+  --note-icon-3: url(/img/sun.svg);
+  --note-icon-fallback: url(/img/default-note-icon.svg);
+  --graph-main: var(--text-accent);
+  --graph-muted: var(--text-muted);
+
+  /* https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss */
+  nav.filetree-sidebar {
+    background-color: #000000a7;
+    top: 15px;
+    left: 15px;
+    position: fixed;
+    height: calc(100% - 30px);
+    width: 265px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    overflow-x: hidden;
+
+    .search-button {
+      margin: 10px;
+      min-width: 160px;
+      margin-bottom: 20px;
+    }
+
+    &>.folder {
+      flex: 1;
+      overflow-y: auto;
+      overflow-x: hidden;
+      margin-right: -10px;
+    }
+
+    .notelink {
+      border-radius: 10px;
+      padding: 5px 8px 5px 8px;
+      margin-right: 8px;
+
+      a::before {
+        margin-right: 2px;
+      }
+    }
+
+    .notelink.active-note {
+      transform: unset;
+    }
+
+    .fa-sticky-note {
+      display: none !important;
+    }
+
+    h1 {
+      font-size: 32px !important;
+      background: linear-gradient(to right, #f32170, #5682f1, #cf23cf, #5473f2);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      position: relative;
+    }
+
+    h1::after {
+      content: '';
+      display: inline-block;
+      width: 1em;
+      height: 1em;
+      background-image: url(/img/milkyWay.png);
+      background-size: contain;
+      background-repeat: no-repeat;
+      vertical-align: middle;
+      margin-bottom: 0.2em;
+
+      /* 預設無動畫 */
+      animation: none;
+    }
+
+    h1:hover::after {
+      /* 滑鼠移上去，啟動動畫，並無限循環 */
+      animation: wave 0.7s ease-in-out infinite;
+    }
+
+    h1::after {
+      /* 滑鼠離開後，完成當前的動畫周期 */
+      animation-fill-mode: forwards;
+    }
+
+    @keyframes wave {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      25% {
+        transform: rotate(15deg);
+      }
+
+      50% {
+        transform: rotate(0deg);
+      }
+
+      75% {
+        transform: rotate(-15deg);
+      }
+
+      100% {
+        transform: rotate(0deg);
+      }
+    }
+
+  }
+
+  .cm-s-obsidian>header>h1 {
+    background: linear-gradient(to right, rgba(217, 184, 15, 1), rgba(60, 138, 213, 1), rgba(207, 71, 117, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .notelink {
+    padding: 5px 25 5px 25px;
+    display: flex;
+    align-items: center;
+
+    a {
+      &:hover {
+        text-decoration: underline !important;
+      }
+    }
+
+    svg {
+      flex-shrink: 0;
+    }
+  }
+
+  .sidebar {
+    padding-top: 15px;
+    max-width: 320px;
+  }
+
+  .sidebar-container {
+    padding-right: 0px;
+    justify-content: center;
+  }
+
+  .graph .graph-title {
+    background-color: #000000a7;
+  }
+
+  #link-graph {
+    background-color: #000000a7;
+    margin-bottom: 0px;
+    border-radius: 10px 0 10px 10px;
+    width: fit-content;
+  }
+
+  .backlinks {
+    flex: 1;
+    margin-top: 10px;
+    background-color: #000000a7;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 5px;
+
+    .backlink-title {
+      margin: 4px 0;
+      font-size: 18px !important;
+      color: var(--h6-color);
+    }
+  }
+
+  @media (max-width: 1200px) {
+    #link-graph {
+      border-radius: 0 10px 10px 10px;
+    }
+
+    .sidebar {
+      display: none;
+    }
+
+    .sidebar::before {
+      display: none;
+    }
+
+    .sidebar-container {
+      display: none;
+    }
+
+    .graph {
+      display: none;
+    }
+
+    .toc {
+      display: none;
+    }
+
+    .navbar {
+      h1 {
+        background: linear-gradient(to right, #f32170, #5682f1, #cf23cf, #5473f2);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        position: relative;
+      }
+
+      h1::after {
+        content: '';
+        display: inline-block;
+        width: 1em;
+        /* 高度設為文字大小 */
+        height: 1em;
+        background-image: url(/img/milkyWay.png);
+        background-size: contain;
+        /* 確保圖片根據容器大小縮放 */
+        background-repeat: no-repeat;
+        vertical-align: middle;
+        margin-bottom: 0.2em;
+      }
+
+      h1::after {
+        content: '';
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        background-image: url(/img/milkyWay.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        vertical-align: middle;
+        margin-bottom: 0.2em;
+
+        /* 預設無動畫 */
+        animation: none;
+      }
+
+      h1:hover::after {
+        /* 滑鼠移上去，啟動動畫，並無限循環 */
+        animation: wave 0.7s ease-in-out infinite;
+      }
+
+      h1::after {
+        /* 滑鼠離開後，完成當前的動畫周期 */
+        animation-fill-mode: forwards;
+      }
+
+      @keyframes wave {
+        0% {
+          transform: rotate(0deg);
+        }
+
+        25% {
+          transform: rotate(15deg);
+        }
+
+        50% {
+          transform: rotate(0deg);
+        }
+
+        75% {
+          transform: rotate(-15deg);
+        }
+
+        100% {
+          transform: rotate(0deg);
+        }
+      }
+    }
+  }
+
+  /*
+  #floating-control {
+    position: fixed;
+    color: var(--link-color);
+    bottom: 1vmax;
+    right: 1.8vmax;
+    font-size: 24px;
+    z-index: 999999;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+
+    .svg-icon,
+    i {
+      cursor: pointer;
+      height: 24px;
+      width: auto;
+    }
+
+    #theme-switch {
+      .light {
+        display: none;
+      }
+
+      .dark {
+        display: none;
+      }
+
+      .auto {
+        display: none;
+      }
+    }
+
+    #theme-switch.light {
+      .light {
+        display: inline;
+      }
+    }
+
+    #theme-switch.dark {
+      .dark {
+        display: inline;
+      }
+    }
+
+    #theme-switch.auto {
+      .auto {
+        display: inline;
+      }
+    }
+  }
+  */
+  .callout[data-callout="complcy"] {
+    --callout-color: 144, 240, 66;
+    --callout-icon: lucide-messages-square;
+  }
+
+  .marquee {
+    width: 100%;
+    /* 視需要調整寬度 */
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+
+  .marquee div {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 25s linear infinite !important;
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+
+  a[href^='http']::after {
+    content: '';
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    margin-left: 0em;
+    padding-left: 0em;
+    background-size: 70%;
+    background-image: url(/img/outgoing.svg);
+    background-repeat: no-repeat;
+    background-position: center bottom 10%;
+  }
+
+  a[href^='zotero']::after {
+    content: '';
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    margin-left: 0em;
+    padding-left: 0em;
+    background-size: 70%;
+    background-image: url(/img/outgoing.svg);
+    background-repeat: no-repeat;
+    background-position: center bottom 10%;
+  }
+}
+
+body.theme-light .sidebar::before {
+  content: '';
+  position: absolute;
+  top: -55px;
+  left: 0;
+  width: 100%;
+  height: 75px; // 這個值應該是 GIF 的高度
+  background-size: contain; // 或使用 cover，具體看需求
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(/img/banner-light.gif);
+}
+
+body.theme-dark .sidebar::before {
+  content: '';
+  position: absolute;
+  top: -55px;
+  left: 0;
+  width: 100%;
+  height: 75px; // 這個值應該是 GIF 的高度
+  background-size: contain; // 或使用 cover，具體看需求
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(/img/banner.gif);
+  border-radius: 10px;
+}
+
+.fullpage-overlay {
+  position: fixed;
+  /* 改為 fixed 以覆蓋整個視窗 */
+}
+
+.content {
+  margin-top: 75px;
 }
