@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/lista-de-livros/","title":"Lista de Livros","contentClasses":"cards cards-cover table-max dashboard","tags":["livros","moc"]}
+{"dg-publish":true,"permalink":"/1-minha-vida/lista-de-livros/","title":"Lista de Livros","tags":["livros","moc"]}
 ---
 
 

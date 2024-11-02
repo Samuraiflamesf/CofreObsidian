@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Trees of knowledge","contentClasses":"dashboard","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"Trees of knowledge","tags":["gardenEntry"]}
 ---
 
 
