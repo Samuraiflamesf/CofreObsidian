@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/matematica-ifba/","title":"Faculdade Matemática","tags":["pessoal/estudos","pessoal/matematica","moc"]}
+{"title":"Faculdade Matemática","created":"2024-08-01","dg-publish":true,"tags":["pessoal/estudos","pessoal/matematica","moc"],"description":"Anotações sobre minha faculdade de Matemática.","permalink":"/1-minha-vida/matematica-ifba/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Trees of knowledge","tags":["gardenEntry"]}
+{"cssClasses":["dashboard"],"banner":"![bpxxqqvps4h91.gif](/img/user/0.Settings/img/bpxxqqvps4h91.gif)","banner_y":0.77667,"title":"Trees of knowledge","dg-home":true,"dg-publish":true,"permalink":"/index/","contentClasses":"dashboard","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 

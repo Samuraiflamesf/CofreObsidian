@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/projeto-de-matematica/","title":"Projeto de Matemática","tags":["pessoal/estudos","pessoal/quaseumdev","atividades"]}
+{"title":"Projeto de Matemática","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","atividades"],"permalink":"/1-minha-vida/projeto-de-matematica/","dgPassFrontmatter":true}
 ---
 
 [Voltar](1.LIFE/index)

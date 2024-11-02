@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/admin-lte-3/","tags":["pessoal/estudos","pessoal/web"]}
+{"Title":"AdminLTE3","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1-minha-vida/admin-lte-3/","dgPassFrontmatter":true}
 ---
 
 [Voltar](1.LIFE/index)

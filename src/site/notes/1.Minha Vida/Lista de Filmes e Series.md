@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/lista-de-filmes-e-series/","title":"Lista de Filmes e Series","contentClasses":"cards cards-cover table-max dashboard","tags":["série","filmes","moc"]}
+{"title":"Lista de Filmes e Series","created":"2024-11-01","dg-publish":true,"tags":["série","filmes","moc"],"description":null,"cssclasses":["cards","cards-cover","table-max","dashboard"],"permalink":"/1-minha-vida/lista-de-filmes-e-series/","dgPassFrontmatter":true}
 ---
 
 

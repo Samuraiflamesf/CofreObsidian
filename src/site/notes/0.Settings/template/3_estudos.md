@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-settings/template/3-estudos/","title":"{{title}}","tags":["pessoal/estudos","pessoal/quaseumdev","atividades"]}
+{"title":"{{title}}","created":"{{date}}","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","atividades"],"permalink":"/0-settings/template/3-estudos/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

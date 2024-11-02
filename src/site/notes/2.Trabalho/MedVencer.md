@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-trabalho/med-vencer/","title":"Controle Aquisição BI","tags":["trabalho/BI andamento"]}
+{"title":"Controle Aquisição BI","dg-publish":true,"tags":["trabalho/BI andamento"],"permalink":"/2-trabalho/med-vencer/","dgPassFrontmatter":true}
 ---
 
 [Voltar](2.Trabalho/index.md)

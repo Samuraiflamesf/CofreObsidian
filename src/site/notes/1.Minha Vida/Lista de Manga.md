@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/lista-de-manga/","tags":["pessoal/list","pessoal/livros"]}
+{"Title":"Lista de Manga","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/livros"],"permalink":"/1-minha-vida/lista-de-manga/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |
