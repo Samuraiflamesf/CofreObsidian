@@ -18,7 +18,7 @@
     - [[4.Review do Caos/Restaurantes\|Restaurantes]]
     - [[Filmes\|Filmes]]
     - [[Livros\|Livros]]
-- 🎴 PlanejamentoViagens
+- 🎴 Minhas Experiências
     - [[1.Minha Vida/INTERNACIONAIS🛫\|INTERNACIONAIS🛫]]
     - [[1.Minha Vida/BRASIL 🛩\|BRASIL 🛩]]
     - [[1.Minha Vida/BAHIA ✈️\|BAHIA ✈️]]
