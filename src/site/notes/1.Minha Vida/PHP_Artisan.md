@@ -1,11 +1,7 @@
 ---
-title: PHP_Artisan
-created: 2024-09-30
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
+{"title":"PHP_Artisan","created":"2024-09-30","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","git"],"permalink":"/1-minha-vida/php-artisan/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) | [[1.Minha Vida/Git Flow\|Git Flow]] | [[1.Minha Vida/Aprendendo Git\|Aprendendo Git]] |
 **Rodar filas/Queue
 ```bash

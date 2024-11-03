@@ -1,5 +1,5 @@
 ---
-{"title":"Introdução ao graficos do Pandas","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","atividades"],"permalink":"/1-minha-vida/introducao-ao-graficos-do-pandas/","dgPassFrontmatter":true}
+{"title":"Introdução ao graficos do Pandas","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","python"],"permalink":"/1-minha-vida/introducao-ao-graficos-do-pandas/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) | [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]] |

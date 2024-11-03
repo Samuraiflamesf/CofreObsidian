@@ -6,7 +6,7 @@
 #### BAHIA 
 - [ ] [[1.Minha Vida/Madre de deus\|Madre de deus]]
 - [ ] [[1.Minha Vida/Aracaju\|Aracaju]]
-- [ ] [[Santo Amaro\|Santo Amaro]]
+- [ ] [[3.Caixa de Entrada/Santo Amaro\|Santo Amaro]]
 - [ ] Chapada Diamantina
 - [ ] São Desidério
 - [ ] Raso da Catarina

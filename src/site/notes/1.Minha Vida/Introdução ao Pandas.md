@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Introdução ao Pandas","created":"2024-07-17","tags":["pessoal/web","pessoal/estudos"],"permalink":"/1-minha-vida/introducao-ao-pandas/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Introdução ao Pandas","created":"2024-07-17","tags":["pessoal/web","pessoal/estudos","python"],"permalink":"/1-minha-vida/introducao-ao-pandas/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) | [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]] |

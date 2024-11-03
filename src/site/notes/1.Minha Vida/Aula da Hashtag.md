@@ -1,5 +1,5 @@
 ---
-{"Title":"Aula da Hashtag","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","dataScience"],"permalink":"/1-minha-vida/aula-da-hashtag/","dgPassFrontmatter":true}
+{"Title":"Aula da Hashtag","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","dataScience","python"],"permalink":"/1-minha-vida/aula-da-hashtag/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) | [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]] |

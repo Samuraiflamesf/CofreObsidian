@@ -1,10 +1,8 @@
 ---
-{"Title":"VIAGENS BRASIL 🛩","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/viagem"],"permalink":"/1-minha-vida/brasil/","dgPassFrontmatter":true}
+{"Title":"VIAGENS BRASIL 🛩","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/viagem","BRASIL"],"permalink":"/1-minha-vida/brasil/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |
-## Evento
-- [ ] CCXP
 ## Centro-Oeste
 - Bonito, Mato Grosso do Sul
 - Alto Paraíso (Chapada dos Veadeiros), Goiás
@@ -22,6 +20,7 @@
 - Manaus, Amazonas
 ## Sudeste
 - Tiradentes, Minas Gerais
+- [[3.Caixa de Entrada/Rio de Janeiro, RJ\|Rio de Janeiro, RJ]]
 - Poços de Caldas, Minas Gerais
 - Inhotim (Brumadinho), Minas Gerais
 - Monte Verde, Minas Gerais

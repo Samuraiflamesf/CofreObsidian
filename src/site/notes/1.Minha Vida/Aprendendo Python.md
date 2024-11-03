@@ -21,9 +21,8 @@ Matplotlib
 - [[1.Minha Vida/Projetos DataScience\|Projetos DataScience]]
 - Descrição de projetos que você pretende desenvolver para aplicar o que aprendeu
 - Ideias de projetos incluem: calculadora, jogo simples, web scraper, etc.
-
 ### Referências
-4. CIIA - Qualidade de Dados em Saúde
 1. Python para Engenheiros e Cientistas/ Básico ao Avançado
 2. Formação Cientista de Dados: O Curso Completo
+4. CIIA - Qualidade de Dados em Saúde
 3. Machine Learning e Data Science com Python de A a Z
