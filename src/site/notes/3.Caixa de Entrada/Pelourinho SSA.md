@@ -32,4 +32,10 @@
 - **Nome do Bar:** [[Cravinho Bar\|Cravinho Bar]]
 ---
 ## 🌳 Atrações e Passeios ao Ar Livre
-- **Nome do Local:** [[Centro do Pelourinho\|Centro do Pelourinho]]
+- [[Largo Tereza Batista\|Largo Tereza Batista]]
+- [[Monumento Visconde de Cairu\|Monumento Visconde de Cairu]]
+- [[A varanda do Casarão 17\|A varanda do Casarão 17]]
+- [[Praça das Artes\|Praça das Artes]]
+- 
+## 🦔 Experiências Diferentes
+- [Cine Clube Glauber Rocha - Cine Glauber Rocha](https://www.cineglauberrocha.com.br/)
