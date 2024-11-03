@@ -15,7 +15,7 @@
     - [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]]
     - [[Aprendendo PhP\|Aprendendo PhP]]
 - 🔍 Review do Caos
-    - [[3.Caixa de Entrada/Restaurantes\|Restaurantes]]
+    - [[4.Review do Caos/Restaurantes\|Restaurantes]]
     - [[Filmes\|Filmes]]
     - [[Livros\|Livros]]
 - 🎴 PlanejamentoViagens
@@ -51,14 +51,20 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 301
+    -   📝 Total de Notas no Cofre: 309
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 159
 # 📥 Caixa de Entrada
-| File                                                                 | Criado em                    |
-| -------------------------------------------------------------------- | ---------------------------- |
-| [[3.Caixa de Entrada/Restaurantes\|Restaurantes]]                 | 8:05 PM - November 02, 2024  |
-| [[3.Caixa de Entrada/Bolívia - Santa Cruz\|Bolívia - Santa Cruz]] | 10:24 PM - November 02, 2024 |
+| File                                                                                                 | Criado em                    |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[3.Caixa de Entrada/Pelourinho SSA\|Pelourinho SSA]]                                             | 11:06 AM - November 03, 2024 |
+| [[3.Caixa de Entrada/Fundação Casa de Jorge Amado\|Fundação Casa de Jorge Amado]]                 | 11:11 AM - November 03, 2024 |
+| [[3.Caixa de Entrada/Museu Eugênio Teixeira Leal\|Museu Eugênio Teixeira Leal]]                   | 11:15 AM - November 03, 2024 |
+| [[3.Caixa de Entrada/Museus da Energia\|Museus da Energia]]                                       | 11:20 AM - November 03, 2024 |
+| [[3.Caixa de Entrada/Lab Make - Museu de energia\|Lab Make - Museu de energia]]                   | 11:36 AM - November 03, 2024 |
+| [[3.Caixa de Entrada/buddha\|buddha]]                                                             | 11:37 AM - November 03, 2024 |
+| [[3.Caixa de Entrada/Museu de Arte Moderna da Bahia - MAM\|Museu de Arte Moderna da Bahia - MAM]] | 11:54 AM - November 03, 2024 |
+| [[3.Caixa de Entrada/Corredor da Vitória\|Corredor da Vitória]]                                   | 11:56 AM - November 03, 2024 |
 
 { .block-language-dataview}
 ---

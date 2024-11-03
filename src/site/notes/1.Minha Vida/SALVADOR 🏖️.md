@@ -3,6 +3,100 @@
 ---
 
 | [Voltar](index) |
+## Lugares para Visitar:
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3-caixa-de-entrada/pelourinho-ssa/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### 🎨 Arte & Cultura
+- **[[3.Caixa de Entrada/Fundação Casa de Jorge Amado\|Fundação Casa de Jorge Amado]]**
+- **[[3.Caixa de Entrada/Museus da Energia\|Museus da Energia]]**
+- **[[Museu da Gastronomia Baiana\|Museu da Gastronomia Baiana]]**
+- [[3.Caixa de Entrada/Museu Eugênio Teixeira Leal\|Museu Eugênio Teixeira Leal]]
+- [[Casa do Carnaval da Bahia\|Casa do Carnaval da Bahia]]
+- [[Museu do Mar - aleixo Belov\|Museu do Mar - aleixo Belov]]
+- [[Cidade da Música da Bahia\|Cidade da Música da Bahia]]
+- [[Galeria Mercado\|Galeria Mercado]]
+- [[Casa das Historias de Salvador\|Casa das Historias de Salvador]]
+- [[Museu de Impresa - Associação Bahiana de Imprensa\|Museu de Impresa - Associação Bahiana de Imprensa]]
+- [[Centro Cultural Solar Ferrão\|Centro Cultural Solar Ferrão]]
+- [[Casa do Benin\|Casa do Benin]]
+- [[MuNEAN - Museu Nacional de Enfermangem\|MuNEAN - Museu Nacional de Enfermangem]]
+- [[3.Caixa de Entrada/Museu de Arte Moderna da Bahia - MAM\|Museu de Arte Moderna da Bahia - MAM]]
+- [[Memorial das Baianas de Acarajé\|Memorial das Baianas de Acarajé]]
+- [[Centro Cultural Palácio da Sé\|Centro Cultural Palácio da Sé]]
+- 
+---
+## 🍹 Bares e Experiências Gastronômicas
+### 🍻Onde Bebemos e Brindamos
+- **Nome do Bar:** [[]]
+  - **Bebida ou Comida Imperdível:** [[Ex.: Caipirinha exótica\|Ex.: Caipirinha exótica]]
+  - **Ambiente e Impressões:** _Breve descrição do clima do lugar_
+### 👨‍🍳Restaurante ou Café Especial
+- **Nome:** [Ex.: Terraço Itália]
+  - **Prato Degustado:** [Prato principal ou sobremesa incrível]
+  - **Momento Memorável:** _Ex.: vista da cidade ao pôr do sol_
+
+---
+## 🌳 Atrações e Passeios ao Ar Livre
+### Parques e Áreas Naturais
+- **Nome do Local:** [Ex.: Parque Ibirapuera]
+  - **Atividade Realizada:** [Ex.: Caminhada, picnic]
+  - **Foto ou Lembrança:** _Momento especial ou vista que marcou_
+### Exploração Urbana
+- **Ruas e Av. Famosas:** [Ex.: Avenida Paulista]
+  - **Ponto Curioso:** [Grafite, evento, música de rua]
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3-caixa-de-entrada/corredor-da-vitoria/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### 🎨 Arte & Cultura
+- [[Museu de Arte da Bahia - MAB\|Museu de Arte da Bahia - MAB]]
+---
+## 🍹 Bares e Experiências Gastronômicas
+### 🍻Onde Bebemos e Brindamos
+- **Nome do Bar:** [[]]
+  - **Bebida ou Comida Imperdível:** [[Ex.: Caipirinha exótica\|Ex.: Caipirinha exótica]]
+  - **Ambiente e Impressões:** _Breve descrição do clima do lugar_
+### 👨‍🍳Restaurante ou Café Especial
+- **Nome:** [Ex.: Terraço Itália]
+  - **Prato Degustado:** [Prato principal ou sobremesa incrível]
+  - **Momento Memorável:** _Ex.: vista da cidade ao pôr do sol_
+
+---
+## 🌳 Atrações e Passeios ao Ar Livre
+### Parques e Áreas Naturais
+- **Nome do Local:** [Ex.: Parque Ibirapuera]
+  - **Atividade Realizada:** [Ex.: Caminhada, picnic]
+  - **Foto ou Lembrança:** _Momento especial ou vista que marcou_
+### Exploração Urbana
+- **Ruas e Av. Famosas:** [Ex.: Avenida Paulista]
+  - **Ponto Curioso:** [Grafite, evento, música de rua]
+
+
+</div></div>
+
+
+---
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+
+
+---
 #### Bebidas e Comidas para experimentar
 - Tequila
 - Hidromel
@@ -73,4 +167,30 @@
 - Experimentar uma Hidro
 - Casa das histórias de Sal
 - Galeria do mercado modelo
-## [Restaurant Week](https://maitredigital.com.br/salvadorrestaurantweek)
+
+##### Museus e Locais Culturais
+- [ ] **Museu do Mar Aleixo Belov**  
+  - Observação: Entrada gratuita às quartas-feiras
+- [ ] **Museu de Arte Moderna (MAM)**
+- [ ] **Casa do Benin**
+- [ ] **Casa do Rio Vermelho**
+- [ ] **Museu de Arte da Bahia**
+- [ ] **Museu da Misericórdia**
+- [ ] **Casa do Carnaval**
+  - Observação: Entrada gratuita às quartas-feiras
+- [ ] **Centro Cultural Palácio da Sé**
+- [ ] **Casa das Histórias de Sal**
+- [ ] [[Museu de energia\|Museu de energia]]
+- [ ] [[Museu de gastronomia\|Museu de gastronomia]] (possue o murro de ssa)
+- [ ] [[Museu Jorge Amado\|Museu Jorge Amado]]
+## Experiências Diferentes
+- **Experimentar Hidromassagem**
+- **Casa das Histórias de Sal**
+- **Galeria do Mercado Modelo**
+- **Visita ao Terraço do Mundo Seu** - Vista panorâmica recomendada
+---
+> _“As melhores aventuras começam com um passo fora da zona de conforto!”_
+---
+## 🔗 Links Úteis
+- [Museus – Pelourinho Dia e Noite](https://pelourinhodiaenoite.salvador.ba.gov.br/museus/)
+- [Restaurant Week](https://restaurantweek.com.br/)
