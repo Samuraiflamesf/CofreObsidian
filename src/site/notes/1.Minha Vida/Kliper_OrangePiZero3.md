@@ -1,10 +1,7 @@
 ---
-title: Kliper_OrangiPiZero3
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/web
+{"title":"Kliper_OrangiPiZero3","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1-minha-vida/kliper-orange-pi-zero3/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 Para OrangePi Debian:
 username: orangepi 

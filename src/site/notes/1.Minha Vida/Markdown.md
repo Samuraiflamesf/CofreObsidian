@@ -1,9 +1,7 @@
 ---
-Title: Markdown
-created: 2024-05-24
-dg-publish: true
-tags: pessoal/estudos
+{"Title":"Markdown","created":"2024-05-24","dg-publish":true,"tags":["pessoal/estudos"],"permalink":"/1-minha-vida/markdown/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 #### Atalho Para VS Code:
 ```

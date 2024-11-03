@@ -1,9 +1,7 @@
 ---
-Title: Tutorial do Samba no UbuntuServer
-created: 2024-06-14
-dg-publish: true
-tags: pessoal/estudos, pessoal/web
+{"Title":"Tutorial do Samba no UbuntuServer","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1-minha-vida/samba-ubuntu/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 #### Instalando
 ```

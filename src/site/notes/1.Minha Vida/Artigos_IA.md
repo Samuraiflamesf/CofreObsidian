@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-title: Artigos_IA
-created: 2024-08-12
-tags:
+{"dg-publish":true,"title":"Artigos_IA","created":"2024-08-12","tags":null,"permalink":"/1-minha-vida/artigos-ia/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 Tipos de Artigos:
 - Dissertação, 

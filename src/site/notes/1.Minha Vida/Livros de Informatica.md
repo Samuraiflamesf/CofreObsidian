@@ -1,11 +1,7 @@
 ---
-Title: Livros de Informatica
-created: 2024-06-14
-dg-publish: true
-tags:
-  - pessoal/list
-  - pessoal/livros
+{"Title":"Livros de Informatica","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/livros"],"permalink":"/1-minha-vida/livros-de-informatica/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 #### Python
   - Construindo Chatbots com Python: Usando Natural Language Processing e Machine Learning | R$41

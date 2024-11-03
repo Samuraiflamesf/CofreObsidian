@@ -1,9 +1,7 @@
 ---
-Title: Aula da Hashtag
-created: 2024-06-14
-dg-publish: true
-tags: pessoal/estudos, pessoal/web, dataScience
+{"Title":"Aula da Hashtag","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","dataScience"],"permalink":"/1-minha-vida/aula-da-hashtag/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 ## Resenha sobre o assunto:
 **Ciência de Dados:** Analisa big data para prever tendências futuras.

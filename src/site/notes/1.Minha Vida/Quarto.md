@@ -1,9 +1,7 @@
 ---
-Title: Reforma do Quarto
-created: 2024-06-14
-dg-publish: true
-tags: pessoal/quaseumdev, atividades
+{"Title":"Reforma do Quarto","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev","atividades"],"permalink":"/1-minha-vida/quarto/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 Algumas ideias para fazer os novos moveis de metalon do meu quarto afim de resolver alguns problemas.
 ## Estitilo Industrial

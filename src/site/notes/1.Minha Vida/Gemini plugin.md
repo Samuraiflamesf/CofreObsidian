@@ -1,9 +1,7 @@
 ---
-Title: Gemini plugin
-created: 2024-06-14
-dg-publish: true
-tags: pessoal/estudos, pessoal/web
+{"Title":"Gemini plugin","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1-minha-vida/gemini-plugin/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 O plugin integra a IA ao Obsidian, permitindo:
 * **Respostas instantâneas:** Gera respostas detalhadas para perguntas.

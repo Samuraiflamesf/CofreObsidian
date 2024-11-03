@@ -1,13 +1,7 @@
 ---
-title: Curso de Python para a Saúde
-created: 2024-08-13
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
-  - python
-  - roteiro
+{"title":"Curso de Python para a Saúde","created":"2024-08-13","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","python","roteiro"],"permalink":"/1-minha-vida/curso-de-python-para-a-saude/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 # 📚 Índice de Aulas
 - [ ] [[Aula 1 - Introdução ao Python\|Aula 1 - Introdução ao Python]]

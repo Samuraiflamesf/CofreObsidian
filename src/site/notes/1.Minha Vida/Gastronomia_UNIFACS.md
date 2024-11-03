@@ -1,14 +1,8 @@
 ---
-title: Faculdade Gastronomia
-created: 2024-08-01
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/gastronomia
-  - moc
-description: Anotações sobre minha faculdade de Gastronomia.
+{"title":"Faculdade Gastronomia","created":"2024-08-01","dg-publish":true,"tags":["pessoal/estudos","pessoal/gastronomia","moc"],"description":"Anotações sobre minha faculdade de Gastronomia.","permalink":"/1-minha-vida/gastronomia-unifacs/","dgPassFrontmatter":true}
 ---
-[Voltar](index)
+
+| [Voltar](index) |
 > [!experiencia] Minha faculdade:
 > Guardo com enorme carinho os 5 semestres que me dediquei para esse curso, uma experiencia muito valiosa e enriquecedora. O curso de Gastronomia me proporcionou muitas experiencias, em partes passada durante a quarentena, mas o brilho não se esvaio. Recomendo a todos
 ## Disciplinas
@@ -34,4 +28,4 @@ description: Anotações sobre minha faculdade de Gastronomia.
 | [[Cozinha Européia\|Cozinha Européia]]                                 |
 | [[Bebidas e Harmonizacões\|Bebidas e Harmonizacões]]                          |
 | [[Planeamento e Gestao em Gastronomia\|Planeamento e Gestao em Gastronomia]]              |
-| [Voltar](index) |
+

@@ -1,16 +1,7 @@
 ---
-title: Lista de Livros
-created: 2024-11-01
-dg-publish: true
-tags:
-  - livros
-  - moc
-cssclasses:
-  - cards
-  - cards-cover
-  - table-max
-  - dashboard
+{"title":"Lista de Livros","created":"2024-11-01","dg-publish":true,"tags":["livros","moc"],"cssclasses":["cards","cards-cover","table-max","dashboard"],"permalink":"/1-minha-vida/lista-de-livros/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) | 
 | Poster                                                                                                                                   | Title                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |

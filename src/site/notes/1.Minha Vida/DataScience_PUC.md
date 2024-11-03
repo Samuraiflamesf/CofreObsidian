@@ -1,13 +1,7 @@
 ---
-title: Faculdade Data Science
-created: 2024-06-20
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/puc
-  - moc
-description: Anotações sobre minha pós em Ciência de Dados Aplicada à Saúde.
+{"title":"Faculdade Data Science","created":"2024-06-20","dg-publish":true,"tags":["pessoal/estudos","pessoal/puc","moc"],"description":"Anotações sobre minha pós em Ciência de Dados Aplicada à Saúde.","permalink":"/1-minha-vida/data-science-puc/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 ## Disciplinas
 

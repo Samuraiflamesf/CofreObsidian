@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-title: Introdução ao Python
-created: 2024-08-12
-tags:
-  - pessoal/estudos
+{"dg-publish":true,"title":"Introdução ao Python","created":"2024-08-12","tags":["pessoal/estudos"],"permalink":"/1-minha-vida/introducao-ao-python/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 **Regras para nomes das variáveis**
 

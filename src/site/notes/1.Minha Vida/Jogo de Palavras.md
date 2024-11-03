@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-Title: Jogo de Palavras
-criada: 2024-06-14
-tags:
-  - pessoal/poesias
+{"dg-publish":true,"Title":"Jogo de Palavras","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1-minha-vida/jogo-de-palavras/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 
 Como aliviar a dor do que não foi vivido?  

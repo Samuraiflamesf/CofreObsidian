@@ -1,9 +1,7 @@
 ---
-Title: VIAGENS BRASIL 🛩
-created: 2024-06-14
-dg-publish: true
-tags:  pessoal/list, pessoal/viagem
+{"Title":"VIAGENS BRASIL 🛩","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/viagem"],"permalink":"/1-minha-vida/brasil/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 ## Evento
 - [ ] CCXP

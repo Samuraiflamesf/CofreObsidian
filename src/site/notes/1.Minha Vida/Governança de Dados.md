@@ -1,12 +1,7 @@
 ---
-title: Governança de Dados
-created: 2024-06-18
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
-  - atividades
+{"title":"Governança de Dados","created":"2024-06-18","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","atividades"],"permalink":"/1-minha-vida/governanca-de-dados/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 ## Resenha sobre o assunto:
 Ideia é utilizar o conhecimento das informações para tomar decisões ágeis e corretas.

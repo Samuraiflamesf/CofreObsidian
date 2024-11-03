@@ -1,11 +1,7 @@
 ---
-title: Git Flow
-created: 2024-09-28
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
+{"title":"Git Flow","created":"2024-09-28","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/1-minha-vida/git-flow/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) | [[1.Minha Vida/Aprendendo Git\|Aprendendo Git]] | [[1.Minha Vida/PHP_Artisan\|PHP_Artisan]] |
 # Git Flow
 

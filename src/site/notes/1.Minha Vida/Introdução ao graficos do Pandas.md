@@ -1,12 +1,7 @@
 ---
-title: Introdução ao graficos do Pandas
-created: 2024-08-12
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
-  - atividades
+{"title":"Introdução ao graficos do Pandas","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","atividades"],"permalink":"/1-minha-vida/introducao-ao-graficos-do-pandas/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 > [!dica] Criando um dataframe:
 > dados = pd.DataFrame(lista)

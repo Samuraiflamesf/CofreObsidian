@@ -1,9 +1,7 @@
 ---
-title: RimWord
-dg-publish: true
-tags:
-  - pessoal
+{"title":"RimWord","dg-publish":true,"tags":["pessoal"],"permalink":"/1-minha-vida/rim-word/","dgPassFrontmatter":true}
 ---
+
 |[Voltar](index)|
 ### Traços
 - Resistente

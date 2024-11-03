@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-Title: Carta
-criada: 2024-06-14
-tags:
-  - pessoal/poesias
+{"dg-publish":true,"Title":"Carta","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1-minha-vida/carta/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 Então esse poema dedico a vós,  
 Mãe - uma palavra tão simples,  

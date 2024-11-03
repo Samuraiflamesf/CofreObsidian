@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-Title: Vida Monocromática
-criada: 2024-06-14
-tags:
-  - pessoal/poesias
+{"dg-publish":true,"Title":"Vida Monocromática","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1-minha-vida/vida-monocromatica/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 
 Não sou o mesmo de antes,  

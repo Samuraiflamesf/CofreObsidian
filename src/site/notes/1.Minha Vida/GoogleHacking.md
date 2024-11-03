@@ -1,9 +1,7 @@
 ---
-Title: GoogleHacking
-created: 2024-06-07
-dg-publish: true
-tags: pessoal/estudos, pessoal/web
+{"Title":"GoogleHacking","created":"2024-06-07","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1-minha-vida/google-hacking/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 Para qualquer busca feita no Google, toda resposta terá a seguinte forma de exibição:
 - URL para o site correspondente;

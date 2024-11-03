@@ -51,7 +51,7 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 304
+    -   📝 Total de Notas no Cofre: 298
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 159
 # 📥 Caixa de Entrada

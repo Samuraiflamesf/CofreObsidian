@@ -1,14 +1,9 @@
 ---
-title: Faculdade Matemática
-created: 2024-08-01
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/matematica
-  - moc
-description: Anotações sobre minha faculdade de Matemática.
+{"title":"Faculdade Matemática","created":"2024-08-01","dg-publish":true,"tags":["pessoal/estudos","pessoal/matematica","moc"],"description":"Anotações sobre minha faculdade de Matemática.","permalink":"/1-minha-vida/matematica-ifba/","dgPassFrontmatter":true}
 ---
+
 |[Voltar](index)|
+
 | Descrição                                        | Situação |
 | ------------------------------------------------ | -------- |
 | Inglês Instrumental                              | Aprovado |
@@ -41,5 +36,4 @@ description: Anotações sobre minha faculdade de Matemática.
 | Estágio Supervisionado Em Matemática III         | -        |
 | Estágio Supervisionado Em Matemática IV          | -        |
 | Informática Aplicada Ao Ensino da Matemática     | Aprovado |
-| [[1.Minha Vida/Projeto de Matematica\|Projeto de Matematica]]                            | -        |
-| [Voltar](index) |
+| [[1.Minha Vida/Projeto de Matematica\|Projeto de Matematica]]                        | -        |

@@ -1,9 +1,7 @@
 ---
-Title: Atividades para Fazer
-created: 2024-06-14
-dg-publish: true
-tags: pessoal/quaseumdev
+{"Title":"Atividades para Fazer","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev"],"permalink":"/1-minha-vida/quase-um-dev/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 ### Videos para Canal
 - [x] Instalar o Home Assistant no Proxmox

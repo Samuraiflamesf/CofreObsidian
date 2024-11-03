@@ -1,11 +1,7 @@
 ---
-title: Tenancy_for_laravel
-created: 2024-10-10
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
+{"title":"Tenancy_for_laravel","created":"2024-10-10","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/1-minha-vida/tenancy-for-laravel/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 **Para rodar migrations:**
 ```

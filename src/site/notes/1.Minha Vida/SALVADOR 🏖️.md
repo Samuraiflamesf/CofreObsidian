@@ -1,11 +1,7 @@
 ---
-Title: SALVADOR 🏖️
-created: 2024-06-14
-dg-publish: true
-tags:
-  - pessoal/list
-  - pessoal/viagem
+{"Title":"SALVADOR 🏖️","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/viagem"],"permalink":"/1-minha-vida/salvador/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 #### Bebidas e Comidas para experimentar
 - Tequila

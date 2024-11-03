@@ -1,9 +1,7 @@
 ---
-Title: Terrario
-created: 2024-06-14
-dg-publish: true
-tags: pessoal/quaseumdev
+{"Title":"Terrario","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev"],"permalink":"/1-minha-vida/terrario/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 **Materiais:**
 * Copo de vidro transparente

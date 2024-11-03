@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-Title: Cada palavra é pesada, pesa mais que tonelada
-criada: 2024-06-14
-tags:
-  - pessoal/poesias
+{"dg-publish":true,"Title":"Cada palavra é pesada, pesa mais que tonelada","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1-minha-vida/cada-palavra-e-pesada-pesa-mais-que-tonelada/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 Cada palavra é pesada, pesa mais que tonelada
 Somos magos que retornam sempre que a Terra precisa

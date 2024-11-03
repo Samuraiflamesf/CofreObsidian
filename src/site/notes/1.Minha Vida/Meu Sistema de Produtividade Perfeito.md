@@ -1,9 +1,7 @@
 ---
-Title: Meu Sistema de Produtividade Perfeito
-created: 2024-05-24
-dg-publish: true
-tags: pessoal/estudos
+{"Title":"Meu Sistema de Produtividade Perfeito","created":"2024-05-24","dg-publish":true,"tags":["pessoal/estudos"],"permalink":"/1-minha-vida/meu-sistema-de-produtividade-perfeito/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 
 ### Hardware para conectar:

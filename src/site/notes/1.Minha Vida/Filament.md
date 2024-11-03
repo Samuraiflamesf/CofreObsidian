@@ -1,9 +1,7 @@
 ---
-Title: Filament 3
-created: 2024-05-31
-dg-publish: true
-tags: pessoal/estudos, pessoal/web
+{"Title":"Filament 3","created":"2024-05-31","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1-minha-vida/filament/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 Iniciando projeto Laravel:
 ```bash

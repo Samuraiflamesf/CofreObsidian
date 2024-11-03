@@ -1,11 +1,7 @@
 ---
-Title: VIAGENS BAHIA ✈️
-created: 2024-06-14
-dg-publish: true
-tags:
-  - pessoal/list
-  - pessoal/viagem
+{"Title":"VIAGENS BAHIA ✈️","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/viagem"],"permalink":"/1-minha-vida/bahia/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 #### BAHIA 
 - [ ] [[1.Minha Vida/Madre de deus\|Madre de deus]]
