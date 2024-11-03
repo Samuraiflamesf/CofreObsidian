@@ -1,29 +1,22 @@
 ---
-title: Aprendendo Python
-created: 2024-08-12
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
-  - moc
-description: Anotações sobre meu estudo em python.
+{"title":"Aprendendo Python","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","python"],"description":"Anotações sobre meu estudo em python.","permalink":"/1-minha-vida/aprendendo-python/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
-> [!dica]  Esssas seram as notas utilizando para aprender python
 ## Conteúdos
-    [[Configuração de ambiente\|Configuração de ambiente]]
-    [[1.Minha Vida/Introdução ao Python\|Introdução ao Python]]
-    [[1.Minha Vida/Introdução ao Pandas\|Introdução ao Pandas]]
-    [[1.Minha Vida/Introdução ao graficos do Pandas\|Introdução ao graficos do Pandas]]
-    Introdução ao Seaborn
-    Condições (if, else)
-    Loops (for, while)
-    Definição de funções
-    Escopo e argumentos de funções
-    Trabalhando com arquivos JSON e CSV
-    Pandas
-    Numpy
-    Matplotlib
+[[3.Caixa de Entrada/Configuração de ambiente\|Configuração de ambiente]]
+[[1.Minha Vida/Introdução ao Python\|Introdução ao Python]]
+[[1.Minha Vida/Introdução ao Pandas\|Introdução ao Pandas]]
+[[1.Minha Vida/Introdução ao graficos do Pandas\|Introdução ao graficos do Pandas]]
+Introdução ao Seaborn
+Condições (if, else)
+Loops (for, while)
+Definição de funções
+Escopo e argumentos de funções
+Trabalhando com arquivos JSON e CSV
+Pandas
+Numpy
+Matplotlib
 ## Projetos Práticos
 - [[1.Minha Vida/Projetos DataScience\|Projetos DataScience]]
 - Descrição de projetos que você pretende desenvolver para aplicar o que aprendeu

@@ -10,14 +10,13 @@
     - [[1.Minha Vida/Lista de Poesias\|Lista de Poesias]]
     - [[1.Minha Vida/Lista de Manga\|Lista de Manga]]
     - [[1.Minha Vida/Lista de Livros\|Lista de Livros]]
+    - [[1.Minha Vida/Lista de Filmes e Series\|Lista de Filmes e Series]]
+    - [[4.Review do Caos/Lista de Restaurantes\|Lista de Restaurantes]]
 - 🖥️ Programação
     - [[1.Minha Vida/Aprendendo Git\|Aprendendo Git]]
     - [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]]
     - [[Aprendendo PhP\|Aprendendo PhP]]
-- 🔍 Review do Caos
-    - [[4.Review do Caos/Restaurantes\|Restaurantes]]
-    - [[Filmes\|Filmes]]
-    - [[Livros\|Livros]]
+    - [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]
 - 🎴 Minhas Experiências
     - [[1.Minha Vida/INTERNACIONAIS🛫\|INTERNACIONAIS🛫]]
     - [[1.Minha Vida/BRASIL 🛩\|BRASIL 🛩]]
@@ -51,22 +50,18 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 312
+    -   📝 Total de Notas no Cofre: 321
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 159
 # 📥 Caixa de Entrada
-| File                                                                                                 | Criado em                    |
-| ---------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[3.Caixa de Entrada/Pelourinho SSA\|Pelourinho SSA]]                                             | 11:06 AM - November 03, 2024 |
-| [[3.Caixa de Entrada/Fundação Casa de Jorge Amado\|Fundação Casa de Jorge Amado]]                 | 11:11 AM - November 03, 2024 |
-| [[3.Caixa de Entrada/Museu Eugênio Teixeira Leal\|Museu Eugênio Teixeira Leal]]                   | 11:15 AM - November 03, 2024 |
-| [[3.Caixa de Entrada/Museu da Energia – Neoenergia COELBA\|Museu da Energia – Neoenergia COELBA]] | 11:20 AM - November 03, 2024 |
-| [[3.Caixa de Entrada/Lab Make - Museu de energia\|Lab Make - Museu de energia]]                   | 11:36 AM - November 03, 2024 |
-| [[3.Caixa de Entrada/buddha\|buddha]]                                                             | 11:37 AM - November 03, 2024 |
-| [[3.Caixa de Entrada/Museu de Arte Moderna da Bahia - MAM\|Museu de Arte Moderna da Bahia - MAM]] | 11:54 AM - November 03, 2024 |
-| [[3.Caixa de Entrada/Corredor da Vitória\|Corredor da Vitória]]                                   | 11:56 AM - November 03, 2024 |
-| [[3.Caixa de Entrada/Campo Grande\|Campo Grande]]                                                 | 12:12 PM - November 03, 2024 |
-| [[3.Caixa de Entrada/UFBA\|UFBA]]                                                                 | 12:13 PM - November 03, 2024 |
+| File                                                                         | Criado em                   |
+| ---------------------------------------------------------------------------- | --------------------------- |
+| [[3.Caixa de Entrada/Filmes\|Filmes]]                                     | 2:21 PM - November 03, 2024 |
+| [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]           | 2:23 PM - November 03, 2024 |
+| [[3.Caixa de Entrada/Configuração de ambiente\|Configuração de ambiente]] | 2:26 PM - November 03, 2024 |
+| [[3.Caixa de Entrada/[[Aprendendo\|[[Aprendendo]]                         | 2:26 PM - November 03, 2024 |
+| [[3.Caixa de Entrada/[Aprendendo\|[Aprendendo]]                           | 2:26 PM - November 03, 2024 |
+| [[3.Caixa de Entrada/Aprendendo\|Aprendendo]]                             | 2:26 PM - November 03, 2024 |
 
 { .block-language-dataview}
 ---

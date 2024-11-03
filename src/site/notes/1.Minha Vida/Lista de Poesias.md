@@ -11,8 +11,8 @@
 - [[1.Minha Vida/Desculpas\|Desculpas]]
 - [[1.Minha Vida/Carta\|Carta]]
 - [[1.Minha Vida/Cada palavra é pesada, pesa mais que tonelada\|Cada palavra é pesada, pesa mais que tonelada]]
-- [[1.Minha Vida/Amigos\|Amigos]]
-- [[1.Minha Vida/Agr toma\|Agr toma]]
-- [[1.Minha Vida/A perfeita criação\|A perfeita criação]]
+- [[1.Minha Vida/Poesias/Amigos\|Amigos]]
+- [[1.Minha Vida/Poesias/A perfeita criação\|A perfeita criação]]
+- [[1.Minha Vida/Poesias/Agr toma\|Agr toma]]
 
 { .block-language-dataview}

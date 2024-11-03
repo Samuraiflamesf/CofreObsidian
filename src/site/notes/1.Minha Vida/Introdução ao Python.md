@@ -2,7 +2,7 @@
 {"dg-publish":true,"title":"Introdução ao Python","created":"2024-08-12","tags":["pessoal/estudos"],"permalink":"/1-minha-vida/introducao-ao-python/","dgPassFrontmatter":true}
 ---
 
-| [Voltar](index) |
+| [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]]|
 **Regras para nomes das variáveis**
 
 Em Python, os nomes de variáveis devem obedecer algumas regras simples:
@@ -16,4 +16,3 @@ Em Python, os nomes de variáveis devem obedecer algumas regras simples:
 Camel case deve começar com a primeira letra minúscula e a primeira letra de cada nova palavra subsequente maiúscula:
 *   idadeRecemNascido;
 *   idadeGestante;
-[[1.Minha Vida/Aprendendo Python\|Aprendendo Python]]

@@ -2,7 +2,7 @@
 {"title":"Introdução ao graficos do Pandas","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","atividades"],"permalink":"/1-minha-vida/introducao-ao-graficos-do-pandas/","dgPassFrontmatter":true}
 ---
 
-| [Voltar](index) |
+| [Voltar](index) | [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]] |
 > [!dica] Criando um dataframe:
 > dados = pd.DataFrame(lista)
 # Gráfico de colunas

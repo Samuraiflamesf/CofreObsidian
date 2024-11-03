@@ -2,7 +2,7 @@
 {"Title":"Projetos DataScience","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1-minha-vida/projetos-data-science/","dgPassFrontmatter":true}
 ---
 
-| [Voltar](index) |
+| [Voltar](index) | [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]] |
 ## Resenha sobre o assunto:
  [[1.Minha Vida/Aula da Hashtag\|Aula da Hashtag]]
 ### Principais Conceitos

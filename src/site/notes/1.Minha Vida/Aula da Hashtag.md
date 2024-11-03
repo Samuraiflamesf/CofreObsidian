@@ -2,7 +2,7 @@
 {"Title":"Aula da Hashtag","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","dataScience"],"permalink":"/1-minha-vida/aula-da-hashtag/","dgPassFrontmatter":true}
 ---
 
-| [Voltar](index) |
+| [Voltar](index) | [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]] |
 ## Resenha sobre o assunto:
 **Ciência de Dados:** Analisa big data para prever tendências futuras.
 **Análise de Dados:** Explora dados para entender o que aconteceu.
