@@ -51,7 +51,7 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 309
+    -   📝 Total de Notas no Cofre: 311
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 159
 # 📥 Caixa de Entrada
@@ -60,11 +60,13 @@
 | [[3.Caixa de Entrada/Pelourinho SSA\|Pelourinho SSA]]                                             | 11:06 AM - November 03, 2024 |
 | [[3.Caixa de Entrada/Fundação Casa de Jorge Amado\|Fundação Casa de Jorge Amado]]                 | 11:11 AM - November 03, 2024 |
 | [[3.Caixa de Entrada/Museu Eugênio Teixeira Leal\|Museu Eugênio Teixeira Leal]]                   | 11:15 AM - November 03, 2024 |
-| [[3.Caixa de Entrada/Museus da Energia\|Museus da Energia]]                                       | 11:20 AM - November 03, 2024 |
+| [[3.Caixa de Entrada/Museu da Energia – Neoenergia COELBA\|Museu da Energia – Neoenergia COELBA]] | 11:20 AM - November 03, 2024 |
 | [[3.Caixa de Entrada/Lab Make - Museu de energia\|Lab Make - Museu de energia]]                   | 11:36 AM - November 03, 2024 |
 | [[3.Caixa de Entrada/buddha\|buddha]]                                                             | 11:37 AM - November 03, 2024 |
 | [[3.Caixa de Entrada/Museu de Arte Moderna da Bahia - MAM\|Museu de Arte Moderna da Bahia - MAM]] | 11:54 AM - November 03, 2024 |
 | [[3.Caixa de Entrada/Corredor da Vitória\|Corredor da Vitória]]                                   | 11:56 AM - November 03, 2024 |
+| [[3.Caixa de Entrada/Campo Grande\|Campo Grande]]                                                 | 12:12 PM - November 03, 2024 |
+| [[3.Caixa de Entrada/UFBA\|UFBA]]                                                                 | 12:13 PM - November 03, 2024 |
 
 { .block-language-dataview}
 ---
