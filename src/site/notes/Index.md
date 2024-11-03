@@ -51,13 +51,14 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 298
+    -   📝 Total de Notas no Cofre: 301
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 159
 # 📥 Caixa de Entrada
-| File                                                 | Criado em                   |
-| ---------------------------------------------------- | --------------------------- |
-| [[3.Caixa de Entrada/Restaurantes\|Restaurantes]] | 8:05 PM - November 02, 2024 |
+| File                                                                 | Criado em                    |
+| -------------------------------------------------------------------- | ---------------------------- |
+| [[3.Caixa de Entrada/Restaurantes\|Restaurantes]]                 | 8:05 PM - November 02, 2024  |
+| [[3.Caixa de Entrada/Bolívia - Santa Cruz\|Bolívia - Santa Cruz]] | 10:24 PM - November 02, 2024 |
 
 { .block-language-dataview}
 ---

@@ -16,7 +16,7 @@
 4. Peru, Lima(R$1270)
     ![Pasted image 20240714211104.png](/img/user/0.Settings/img/Pasted%20image%2020240714211104.png)
 5. Colômbia
-6. Bolívia
+6. [[3.Caixa de Entrada/Bolívia - Santa Cruz\|Bolívia - Santa Cruz]]
 7. Mexico
 ### América do Norte
 1. Estados Unidos
