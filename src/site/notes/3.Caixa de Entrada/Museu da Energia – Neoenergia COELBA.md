@@ -1,8 +1,8 @@
 ---
-{"Title":"Museus da Energia","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/3-caixa-de-entrada/museu-da-energia-neoenergia-coelba/","dgPassFrontmatter":true}
+{"Title":"✨ Museus da Energia","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/3-caixa-de-entrada/museu-da-energia-neoenergia-coelba/","dgPassFrontmatter":true}
 ---
 
-# ✨ Museus da Energia
+
 ![Museus da Energia-20241103112650193.webp|574](/img/user/0.Settings/img/Museus%20da%20Energia-20241103112650193.webp)
 - **Localização**: Pelorinho
 - **Horário de Funcionamento**: Seg a Sab, 9h as 18h

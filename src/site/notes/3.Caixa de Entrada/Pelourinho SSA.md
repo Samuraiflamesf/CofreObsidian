@@ -6,6 +6,7 @@
 - **[[3.Caixa de Entrada/Fundação Casa de Jorge Amado\|Fundação Casa de Jorge Amado]]**
 - **[[3.Caixa de Entrada/Museu da Energia – Neoenergia COELBA\|Museu da Energia – Neoenergia COELBA]]**
 - **[[3.Caixa de Entrada/Museu Eugênio Teixeira Leal\|Museu Eugênio Teixeira Leal]]**
+- **[[3.Caixa de Entrada/Museu de Arte Moderna da Bahia - MAM\|Museu de Arte Moderna da Bahia - MAM]]**
 - **[[Museu da Gastronomia Baiana\|Museu da Gastronomia Baiana]]**
 - **[[Casa do Carnaval da Bahia\|Casa do Carnaval da Bahia]]**
 - **[[Museu do Mar - aleixo Belov\|Museu do Mar - aleixo Belov]]**
@@ -16,7 +17,6 @@
 - **[[Centro Cultural Solar Ferrão\|Centro Cultural Solar Ferrão]]**
 - **[[Casa do Benin\|Casa do Benin]]**
 - **[[MuNEAN - Museu Nacional de Enfermangem\|MuNEAN - Museu Nacional de Enfermangem]]**
-- **[[3.Caixa de Entrada/Museu de Arte Moderna da Bahia - MAM\|Museu de Arte Moderna da Bahia - MAM]]**
 - **[[Memorial das Baianas de Acarajé\|Memorial das Baianas de Acarajé]]**
 - **[[Centro Cultural Palácio da Sé\|Centro Cultural Palácio da Sé]]**
 - **[[Palácio Rio Branco - Memorial dos Governadores\|Palácio Rio Branco - Memorial dos Governadores]]**
@@ -28,8 +28,8 @@
 - 
 ---
 ## 🍹 Bares e Experiências Gastronômicas
-- **Nome do Bar:** [[Exemplo\|Exemplo]]
 - **Nome Restaurante:** [[Allê Varanda Bar\|Allê Varanda Bar]]
+- **Nome do Bar:** [[Cravinho Bar\|Cravinho Bar]]
 ---
 ## 🌳 Atrações e Passeios ao Ar Livre
-- **Nome do Local:** [[Exemplo\|Exemplo]]
+- **Nome do Local:** [[Centro do Pelourinho\|Centro do Pelourinho]]

@@ -1,8 +1,8 @@
 ---
-{"Title":"buddha","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/bares-gastronomia"],"permalink":"/3-caixa-de-entrada/buddha/","dgPassFrontmatter":true}
+{"Title":"🍹 Buddha Bistrô Asiático","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/bares-gastronomia"],"permalink":"/3-caixa-de-entrada/buddha/","dgPassFrontmatter":true}
 ---
 
-# 🍹 Buddha Bistrô Asiático
+
 ![buddha-20241103114048736.webp](/img/user/0.Settings/img/buddha-20241103114048736.webp)
 - **Localização**: R. das Rosas, 492 - Pituba, Salvador - BA, 41810-070
 - **Especialidade da Casa**: Comida Asiática

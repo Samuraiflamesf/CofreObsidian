@@ -3,7 +3,7 @@
 ---
 
 ### 🎨 Arte & Cultura
-- [[Museu de Arte da Bahia - MAB\|Museu de Arte da Bahia - MAB]]
+- [[3.Caixa de Entrada/Museu de Arte da Bahia - MAB\|Museu de Arte da Bahia - MAB]]
 - [[Palacete das Artes\|Palacete das Artes]]
 ---
 ## 🍹 Bares e Experiências Gastronômicas
