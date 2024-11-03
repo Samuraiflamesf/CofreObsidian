@@ -1,5 +1,5 @@
 ---
-{"title":"Bolívia - Santa Cruz","dg-publish":true,"tags":["pessoal/viagem"],"permalink":"/4-review-do-caos/bolivia-santa-cruz/","dgPassFrontmatter":true}
+{"title":"Bolívia - Santa Cruz","dg-publish":true,"tags":["pessoal/viagem","Internacional"],"permalink":"/4-review-do-caos/bolivia-santa-cruz/","dgPassFrontmatter":true}
 ---
 
 #### Bolívia - Santa Cruz - Itinerário e Lugares a Visitar

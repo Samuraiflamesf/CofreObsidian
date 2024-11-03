@@ -1,8 +1,8 @@
 ---
-{"title":"Lista de Livros","created":"2024-11-01","dg-publish":true,"tags":["livros","moc"],"cssclasses":["cards","cards-cover","table-max","dashboard"],"permalink":"/1-minha-vida/lista-de-livros/","dgPassFrontmatter":true}
+{"title":"Lista de Livros","created":"2024-11-01","dg-publish":true,"tags":["moc","pessoal/livros"],"cssclasses":["cards","cards-cover","table-max","dashboard"],"permalink":"/1-minha-vida/lista-de-livros/","dgPassFrontmatter":true}
 ---
 
-| [Voltar](index) | 
+| [Voltar](index) |  [[1.Minha Vida/Livros de Informatica\|Livros de Informatica]] | [[1.Minha Vida/Livros de Gastronomia\|Livros de Gastronomia]] |
 | Poster                                                                                                                                   | Title                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](https://loja.sbm.org.br/media/catalog/product/cache/b986d5592b1dcfc7d5b7d57a6da9c9c9/w/h/whatsapp_image_2022-09-20_at_10.23.14.jpeg) | [[0.Settings/books/Teoria dos Números vol 5\|Teoria dos Números vol 5]]                                                                 |

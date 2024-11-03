@@ -19,6 +19,7 @@ Numpy
 Matplotlib
 ## Projetos Práticos
 - [[1.Minha Vida/Projetos DataScience\|Projetos DataScience]]
+- [[1.Minha Vida/Curso de Python para a Saúde\|Curso de Python para a Saúde]]
 - Descrição de projetos que você pretende desenvolver para aplicar o que aprendeu
 - Ideias de projetos incluem: calculadora, jogo simples, web scraper, etc.
 ### Referências

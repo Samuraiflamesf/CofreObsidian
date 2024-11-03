@@ -1,5 +1,5 @@
 ---
-{"title":"Site CV","created":"2024-09-24","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/1-minha-vida/site-cv/","dgPassFrontmatter":true}
+{"title":"Site CV","created":"2024-09-24","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","projetos"],"permalink":"/1-minha-vida/site-cv/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

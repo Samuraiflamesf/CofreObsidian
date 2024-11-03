@@ -1,5 +1,5 @@
 ---
-{"title":"Governança de Dados","created":"2024-06-18","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","atividades"],"permalink":"/1-minha-vida/governanca-de-dados/","dgPassFrontmatter":true}
+{"title":"Governança de Dados","created":"2024-06-18","dg-publish":true,"tags":["pessoal/estudos","pessoal/puc"],"permalink":"/1-minha-vida/governanca-de-dados/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

@@ -1,5 +1,5 @@
 ---
-{"title":"Hacks de Produtividade","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","atividades"],"permalink":"/1-minha-vida/hacks-de-produtividade/","dgPassFrontmatter":true}
+{"title":"Hacks de Produtividade","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal"],"permalink":"/1-minha-vida/hacks-de-produtividade/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

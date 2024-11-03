@@ -1,5 +1,5 @@
 ---
-{"Title":"Transformando Notebook em Mini ITX","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev"],"permalink":"/1-minha-vida/transformando-notebook-em-mini-itx/","dgPassFrontmatter":true}
+{"Title":"Transformando Notebook em Mini ITX","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev","projetos"],"permalink":"/1-minha-vida/transformando-notebook-em-mini-itx/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

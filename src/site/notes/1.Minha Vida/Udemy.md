@@ -1,11 +1,7 @@
 ---
-title: Udemy
-created: 2024-10-25
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
+{"title":"Udemy","created":"2024-10-25","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","projetos"],"permalink":"/1-minha-vida/udemy/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 ## Lista de Cursos para desenvolver:
 1. [[Curso de Latex\|Curso de Latex]]

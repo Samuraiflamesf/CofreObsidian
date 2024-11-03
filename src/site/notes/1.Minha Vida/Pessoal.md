@@ -37,8 +37,8 @@ tags:
 - [ ] Arrumar photos no pc
 - [ ] Fazer rack para os cabos e servidor
 - [ ] [[1.Minha Vida/Terrario\|Terrario]]
-- [ ] Modura do Carro
-- [ ] Som do Carro
+- [x] Modura do Carro
+- [x] Som do Carro
 ### Outros
 - PhotoRec=RECUPERADOR DE FOTOS 
 - Bolo Geode

@@ -1,5 +1,5 @@
 ---
-{"title":"Qualidade de Dados em Saúde para IA","dg-publish":true,"tags":["pessoal/quaseumdev","pessoal/estudos"],"permalink":"/1-minha-vida/qualidade-de-dados-em-saude-para-ia/","dgPassFrontmatter":true}
+{"title":"Qualidade de Dados em Saúde para IA","dg-publish":true,"tags":["pessoal/quaseumdev","pessoal/estudos","python"],"permalink":"/1-minha-vida/qualidade-de-dados-em-saude-para-ia/","dgPassFrontmatter":true}
 ---
 
 |[Voltar](index)|
