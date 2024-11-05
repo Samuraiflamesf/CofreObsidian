@@ -12,6 +12,7 @@
     - [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]]
     - [[Aprendendo PhP\|Aprendendo PhP]]
     - [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]
+    - [[3.Caixa de Entrada/Tutoriais do YouTube\|Tutoriais do YouTube]]
 - 👇 Navegação
     - [[1.Minha Vida/Lista de Poesias\|Lista de Poesias]]
     - [[1.Minha Vida/Lista de Manga\|Lista de Manga]]
