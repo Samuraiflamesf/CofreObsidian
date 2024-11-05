@@ -10,19 +10,19 @@ Nesta nota, estão organizados links para tutoriais e playlists de cursos que ab
 ### 📜 [[3.Caixa de Entrada/Dominando LaTeX\|Dominando LaTeX]]
 - Dominando LaTeX: Documentação Profissional
 - **Playlist completa**
-    - Aula 1: 
+    - 
 
 ### 👾 [[Explorando Dados com Python: Do Básico ao Avançado\|Explorando Dados com Python: Do Básico ao Avançado]]
-- **Playlist completa**  
-  - [Link da playlist](https://youtube.com/playlist-link-python)  
-  - Descrição: Curso completo de Python, incluindo tópicos como manipulação de dados, funções e módulos.
+- Descrição: Curso completo de Python, incluindo tópicos como manipulação de dados, funções e módulos.
+- **Playlist completa** 
+    - 
 - **Vídeos recomendados**  
   - Introdução ao Python – [Link](https://youtube.com/introducao-python)
   - Manipulação de listas e dicionários – [Link](https://youtube.com/listas-dicionarios)
 ### 📊 [[Data Science com Power BI: Explorando Visualmente os Dados\|Data Science com Power BI: Explorando Visualmente os Dados]] 
+- Descrição: Tutoriais desde a configuração inicial até a criação de dashboards avançados.
 - **Playlist completa**  
   - [Link da playlist](https://youtube.com/playlist-link-powerbi)  
-  - Descrição: Tutoriais desde a configuração inicial até a criação de dashboards avançados.
 - **Vídeos recomendados**  
   - Introdução ao Power BI – [Link](https://youtube.com/introducao-powerbi)
   - Criando visualizações interativas – [Link](https://youtube.com/visualizacoes-interativas)
