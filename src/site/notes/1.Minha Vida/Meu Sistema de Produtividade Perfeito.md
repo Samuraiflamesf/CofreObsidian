@@ -25,9 +25,9 @@
 | [Voltar](index) |
 ### Lista de Plugins com dicas
 - [[1.Minha Vida/Dataview\|Dataview]]
-- [[1.Minha Vida/Gemini plugin\|Gemini plugin]]
-- [[1.Minha Vida/Markdown\|Markdown]]
 - [[1.Minha Vida/Meu Sistema de Produtividade Perfeito\|Meu Sistema de Produtividade Perfeito]]
+- [[1.Minha Vida/Markdown\|Markdown]]
+- [[1.Minha Vida/Gemini plugin\|Gemini plugin]]
 
 { .block-language-dataview}
 

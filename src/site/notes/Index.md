@@ -50,19 +50,20 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 321
+    -   📝 Total de Notas no Cofre: 322
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 159
 # 📥 Caixa de Entrada
-| File                                                                         | Criado em                   |
-| ---------------------------------------------------------------------------- | --------------------------- |
-| [[3.Caixa de Entrada/Filmes\|Filmes]]                                     | 2:21 PM - November 03, 2024 |
-| [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]           | 2:23 PM - November 03, 2024 |
-| [[3.Caixa de Entrada/Configuração de ambiente\|Configuração de ambiente]] | 2:26 PM - November 03, 2024 |
-| [[3.Caixa de Entrada/[Aprendendo\|[Aprendendo]]                           | 2:26 PM - November 03, 2024 |
-| [[3.Caixa de Entrada/Aprendendo\|Aprendendo]]                             | 2:26 PM - November 03, 2024 |
-| [[3.Caixa de Entrada/Santo Amaro\|Santo Amaro]]                           | 2:30 PM - November 03, 2024 |
-| [[3.Caixa de Entrada/Rio de Janeiro, RJ\|Rio de Janeiro, RJ]]             | 2:33 PM - November 03, 2024 |
+| File                                                                         | Criado em                    |
+| ---------------------------------------------------------------------------- | ---------------------------- |
+| [[3.Caixa de Entrada/Filmes\|Filmes]]                                     | 2:21 PM - November 03, 2024  |
+| [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]           | 2:23 PM - November 03, 2024  |
+| [[3.Caixa de Entrada/Configuração de ambiente\|Configuração de ambiente]] | 2:26 PM - November 03, 2024  |
+| [[3.Caixa de Entrada/[Aprendendo\|[Aprendendo]]                           | 2:26 PM - November 03, 2024  |
+| [[3.Caixa de Entrada/Aprendendo\|Aprendendo]]                             | 2:26 PM - November 03, 2024  |
+| [[3.Caixa de Entrada/Santo Amaro\|Santo Amaro]]                           | 2:30 PM - November 03, 2024  |
+| [[3.Caixa de Entrada/Rio de Janeiro, RJ\|Rio de Janeiro, RJ]]             | 2:33 PM - November 03, 2024  |
+| [[3.Caixa de Entrada/Trilhas SSA\|Trilhas SSA]]                           | 11:15 PM - November 04, 2024 |
 
 { .block-language-dataview}
 ---
