@@ -9,8 +9,7 @@ Nesta nota, estão organizados links para tutoriais e playlists de cursos que ab
 
 ### 📜 [[3.Caixa de Entrada/Dominando LaTeX\|Dominando LaTeX]]
 - Dominando LaTeX: Documentação Profissional
-- **Playlist completa**
-    - 
+- **Playlist completa**: 
 
 ### 👾 [[Explorando Dados com Python: Do Básico ao Avançado\|Explorando Dados com Python: Do Básico ao Avançado]]
 - Descrição: Curso completo de Python, incluindo tópicos como manipulação de dados, funções e módulos.
