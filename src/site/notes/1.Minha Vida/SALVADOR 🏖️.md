@@ -4,12 +4,12 @@
 
 | [Voltar](index) |
 ## Lugares para Visitar:
-<p><span><span alt="Barra" src="Barra" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Barra</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" style="display: none;" tabindex="0"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Barra
+<p><span><span alt="Barra" src="Barra" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Barra</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Barra
 <span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
 <span class="token key atrule">tags</span><span class="token punctuation">:</span>
   <span class="token punctuation">-</span> pessoal/viagem
   <span class="token punctuation">-</span> pessoal/lugares
-  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button">Copiar</button></pre>
+  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
 <h3 data-heading="🎨 Arte &amp; Cultura" dir="auto">🎨 Arte &amp; Cultura</h3>
 <ul>
 <li dir="auto"><a data-href="Museu Náutico da Bahia" href="Museu Náutico da Bahia" class="internal-link" target="_blank" rel="noopener nofollow">Museu Náutico da Bahia</a></li>
@@ -24,42 +24,42 @@
 <li dir="auto"><strong>Nome Restaurante:</strong> <a data-href="Tirolesa do Morro do Cristo" href="Tirolesa do Morro do Cristo" class="internal-link" target="_blank" rel="noopener nofollow">Tirolesa do Morro do Cristo</a></li>
 <li dir="auto"><strong>Nome Restaurante:</strong> <a data-href="Sordo Gelato BA (Sorveteria de Surdos)" href="Sordo Gelato BA (Sorveteria de Surdos)" class="internal-link" target="_blank" rel="noopener nofollow">Sordo Gelato BA (Sorveteria de Surdos)</a></li>
 </ul>
-<hr></div></span></span></p><p><span><hr></span></p><p><span><span alt="Campo Grande" src="Campo Grande" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Campo Grande</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" style="display: none;" tabindex="0"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Campo Grande
+<hr></div></span></span></p><p><span><hr></span></p><p><span><span alt="Campo Grande" src="Campo Grande" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Campo Grande</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Campo Grande
 <span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
 <span class="token key atrule">tags</span><span class="token punctuation">:</span>
   <span class="token punctuation">-</span> pessoal/viagem
   <span class="token punctuation">-</span> pessoal/lugares
-  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button">Copiar</button></pre>
+  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
 <h3 data-heading="🎨 Arte &amp; Cultura" dir="auto">🎨 Arte &amp; Cultura</h3>
 <ul>
 <li dir="auto"><strong><a data-href="Palácio da Aclamação – Centro antigo" href="Palácio da Aclamação – Centro antigo" class="internal-link" target="_blank" rel="noopener nofollow">Palácio da Aclamação – Centro antigo</a></strong></li>
-</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Corredor da Vitória" src="Corredor da Vitória" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Corredor da Vitória</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" style="display: none;" tabindex="0"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Corredor da Vitória
+</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Corredor da Vitória" src="Corredor da Vitória" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Corredor da Vitória</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Corredor da Vitória
 <span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
 <span class="token key atrule">tags</span><span class="token punctuation">:</span>
   <span class="token punctuation">-</span> pessoal/viagem
   <span class="token punctuation">-</span> pessoal/lugares
-  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button">Copiar</button></pre>
+  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
 <h3 data-heading="🎨 Arte &amp; Cultura" dir="auto">🎨 Arte &amp; Cultura</h3>
 <ul>
 <li dir="auto"><a data-href="Museu de Arte da Bahia - MAB" href="Museu de Arte da Bahia - MAB" class="internal-link" target="_blank" rel="noopener nofollow">Museu de Arte da Bahia - MAB</a></li>
 <li dir="auto"><a data-href="Palacete das Artes" href="Palacete das Artes" class="internal-link" target="_blank" rel="noopener nofollow">Palacete das Artes</a></li>
-</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Ilhas da Baía de Todos-os-Santos" src="Ilhas da Baía de Todos-os-Santos" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Ilhas da Baía de Todos-os-Santos</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" style="display: none;" tabindex="0"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Ilhas da Baía de Todos<span class="token punctuation">-</span>os<span class="token punctuation">-</span>Santos
+</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Ilhas da Baía de Todos-os-Santos" src="Ilhas da Baía de Todos-os-Santos" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Ilhas da Baía de Todos-os-Santos</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Ilhas da Baía de Todos<span class="token punctuation">-</span>os<span class="token punctuation">-</span>Santos
 <span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
 <span class="token key atrule">tags</span><span class="token punctuation">:</span>
   <span class="token punctuation">-</span> pessoal/viagem
   <span class="token punctuation">-</span> pessoal/lugares
-  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button">Copiar</button></pre>
+  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
 <h2 data-heading="🌳 Atrações e Passeios ao Ar Livre" dir="auto">🌳 Atrações e Passeios ao Ar Livre</h2>
 <ul>
 <li dir="auto"><strong>Nome do Local:</strong> <a data-href="Itaparica" href="Itaparica" class="internal-link" target="_blank" rel="noopener nofollow">Itaparica</a></li>
 <li dir="auto"><strong>Nome do Local:</strong> <a data-href="Ilha de Maré" href="Ilha de Maré" class="internal-link" target="_blank" rel="noopener nofollow">Ilha de Maré</a></li>
 <li dir="auto"><strong>Nome do Local:</strong> <a data-href="Ilha dos Frades" href="Ilha dos Frades" class="internal-link" target="_blank" rel="noopener nofollow">Ilha dos Frades</a></li>
-</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Pelourinho SSA" src="Pelourinho SSA" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Pelourinho SSA</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" style="display: none;" tabindex="0"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Pelourinho SSA
+</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Pelourinho SSA" src="Pelourinho SSA" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Pelourinho SSA</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Pelourinho SSA
 <span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
 <span class="token key atrule">tags</span><span class="token punctuation">:</span>
   <span class="token punctuation">-</span> pessoal/viagem
   <span class="token punctuation">-</span> pessoal/lugares
-  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button">Copiar</button></pre>
+  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
 <h3 data-heading="🎨 Arte &amp; Cultura" dir="auto">🎨 Arte &amp; Cultura</h3>
 <ul>
 <li dir="auto"><strong><a data-href="Fundação Casa de Jorge Amado" href="Fundação Casa de Jorge Amado" class="internal-link" target="_blank" rel="noopener nofollow">Fundação Casa de Jorge Amado</a></strong></li>
@@ -109,12 +109,12 @@
 <h2 data-heading="🦔 Experiências Diferentes" dir="auto">🦔 Experiências Diferentes</h2>
 <ul>
 <li dir="auto"><a data-tooltip-position="top" aria-label="https://www.cineglauberrocha.com.br/" rel="noopener nofollow" class="external-link" href="https://www.cineglauberrocha.com.br/" target="_blank">Cine Clube Glauber Rocha - Cine Glauber Rocha</a></li>
-</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Praias de Salvador" src="Praias de Salvador" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Praias de Salvador</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" style="display: none;" tabindex="0"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Praias de Salvador
+</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Praias de Salvador" src="Praias de Salvador" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Praias de Salvador</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Praias de Salvador
 <span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
 <span class="token key atrule">tags</span><span class="token punctuation">:</span>
   <span class="token punctuation">-</span> pessoal/viagem
   <span class="token punctuation">-</span> pessoal/lugares
-  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button">Copiar</button></pre>
+  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
 <h2 data-heading="🌳 Atrações e Passeios ao Ar Livre" dir="auto">🌳 Atrações e Passeios ao Ar Livre</h2>
 <ul>
 <li dir="auto"><strong>Nome do Local:</strong> <a data-href="Praia do Porto da Barra" href="Praia do Porto da Barra" class="internal-link" target="_blank" rel="noopener nofollow">Praia do Porto da Barra</a></li>
@@ -131,21 +131,21 @@
 <ul>
 <li dir="auto"><a data-href="Ilhas da Baía de Todos-os-Santos" href="Ilhas da Baía de Todos-os-Santos" class="internal-link" target="_blank" rel="noopener nofollow">Ilhas da Baía de Todos-os-Santos</a></li>
 <li dir="auto"><a data-href="Humaitá" href="Humaitá" class="internal-link" target="_blank" rel="noopener nofollow">Humaitá</a></li>
-</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Rio Vermelho" src="Rio Vermelho" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Rio Vermelho</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" style="display: none;" tabindex="0"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Rio Vermelho
+</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Rio Vermelho" src="Rio Vermelho" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Rio Vermelho</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Rio Vermelho
 <span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
 <span class="token key atrule">tags</span><span class="token punctuation">:</span>
   <span class="token punctuation">-</span> pessoal/viagem
   <span class="token punctuation">-</span> pessoal/lugares
-  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button">Copiar</button></pre>
+  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
 <h2 data-heading="🍹 Bares e Experiências Gastronômicas" dir="auto">🍹 Bares e Experiências Gastronômicas</h2>
 <ul>
 <li dir="auto"><strong>Nome Restaurante:</strong> <a data-href="Blue Praia Bar" href="Blue Praia Bar" class="internal-link" target="_blank" rel="noopener nofollow">Blue Praia Bar</a></li>
-</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="UFBA" src="UFBA" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">UFBA</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" style="display: none;" tabindex="0"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> UFBA
+</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="UFBA" src="UFBA" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">UFBA</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> UFBA
 <span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
 <span class="token key atrule">tags</span><span class="token punctuation">:</span>
   <span class="token punctuation">-</span> pessoal/viagem
   <span class="token punctuation">-</span> pessoal/lugares
-  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button">Copiar</button></pre>
+  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
 <h3 data-heading="🎨 Arte &amp; Cultura" dir="auto">🎨 Arte &amp; Cultura</h3>
 <ul>
 <li dir="auto"><strong><a data-href="Museu Afro-Brasileiro – MAFRO" href="Museu Afro-Brasileiro – MAFRO" class="internal-link" target="_blank" rel="noopener nofollow">Museu Afro-Brasileiro – MAFRO</a></strong></li>

@@ -6,17 +6,18 @@
 > Bem-vindo ao meu espaço pessoal! Este site foi criado para organizar e compartilhar minhas notas de estudo, anotações de trabalho e outros recursos úteis. Aqui você encontrará uma variedade de informações e ferramentas que uso no meu dia a dia profissional e acadêmico.
 
 # 🌱 Minha Vida
+- 🖥️ Programação
+    - [[3.Caixa de Entrada/Tutoriais do YouTube\|Tutoriais do YouTube]]
+    - [[1.Minha Vida/Aprendendo Git\|Aprendendo Git]]
+    - [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]]
+    - [[Aprendendo PhP\|Aprendendo PhP]]
+    - [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]
 - 👇 Navegação
     - [[1.Minha Vida/Lista de Poesias\|Lista de Poesias]]
     - [[1.Minha Vida/Lista de Manga\|Lista de Manga]]
     - [[1.Minha Vida/Lista de Livros\|Lista de Livros]]
     - [[1.Minha Vida/Lista de Filmes e Series\|Lista de Filmes e Series]]
     - [[4.Review do Caos/Lista de Restaurantes\|Lista de Restaurantes]]
-- 🖥️ Programação
-    - [[1.Minha Vida/Aprendendo Git\|Aprendendo Git]]
-    - [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]]
-    - [[Aprendendo PhP\|Aprendendo PhP]]
-    - [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]
 - 🎴 Minhas Experiências
     - [[1.Minha Vida/INTERNACIONAIS🛫\|INTERNACIONAIS🛫]]
     - [[1.Minha Vida/BRASIL 🛩\|BRASIL 🛩]]
@@ -50,7 +51,7 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 322
+    -   📝 Total de Notas no Cofre: 323
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 159
 # 📥 Caixa de Entrada
@@ -64,6 +65,8 @@
 | [[3.Caixa de Entrada/Santo Amaro\|Santo Amaro]]                           | 2:30 PM - November 03, 2024  |
 | [[3.Caixa de Entrada/Rio de Janeiro, RJ\|Rio de Janeiro, RJ]]             | 2:33 PM - November 03, 2024  |
 | [[3.Caixa de Entrada/Trilhas SSA\|Trilhas SSA]]                           | 11:15 PM - November 04, 2024 |
+| [[3.Caixa de Entrada/Tutoriais do YouTube\|Tutoriais do YouTube]]         | 10:29 AM - November 05, 2024 |
+| [[3.Caixa de Entrada/Dominando\|Dominando]]                               | 1:45 PM - November 05, 2024  |
 
 { .block-language-dataview}
 ---
