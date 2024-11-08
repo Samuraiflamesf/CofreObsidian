@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"titulo":"A Substância","tipo":"Filme","ano":"2024","gênero":["Terror","Ficção Científica","Thriller"],"image":"https://image.tmdb.org/t/p/w500/6L3PfQEydRzONYrhtpWtchRhOuV.jpg","lançado":"2024-09-07","assistido":false,"nota":null,"tags":["filme","pessoal"],"permalink":"/0.Settings/media/filmes/A Substância (2024)/","dgPassFrontmatter":true}
+{"dg-publish":true,"titulo":"A Substância","tipo":"Filme","ano":"2024","gênero":["Terror","Ficção Científica","Thriller"],"image":"https://image.tmdb.org/t/p/w500/6L3PfQEydRzONYrhtpWtchRhOuV.jpg","lançado":"2024-09-07","assistido":false,"nota":null,"tags":["filme","pessoal"],"permalink":"/0-settings/media/filmes/a-substancia-2024/","dgPassFrontmatter":true}
 ---
 
 # Resumo

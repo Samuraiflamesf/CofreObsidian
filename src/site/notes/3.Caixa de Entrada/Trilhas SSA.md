@@ -1,5 +1,5 @@
 ---
-{"Title":"Trilhas SSA","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/3.Caixa de Entrada/Trilhas SSA/","dgPassFrontmatter":true}
+{"Title":"Trilhas SSA","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/3-caixa-de-entrada/trilhas-ssa/","dgPassFrontmatter":true}
 ---
 
 ### 🚵‍♂️ Trilhas com partida de Salvador

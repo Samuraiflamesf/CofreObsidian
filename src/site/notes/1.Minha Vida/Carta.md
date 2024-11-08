@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Title":"Carta","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1.Minha Vida/Carta/","dgPassFrontmatter":true}
+{"dg-publish":true,"Title":"Carta","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1-minha-vida/carta/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

@@ -1,5 +1,5 @@
 ---
-{"Title":"✨ Rio de Janeiro, RJ","dg-publish":true,"tags":["pessoal/viagem","pessoal/viagem/lugares"],"permalink":"/3.Caixa de Entrada/Rio de Janeiro, RJ/","dgPassFrontmatter":true}
+{"Title":"✨ Rio de Janeiro, RJ","dg-publish":true,"tags":["pessoal/viagem","pessoal/viagem/lugares"],"permalink":"/3-caixa-de-entrada/rio-de-janeiro-rj/","dgPassFrontmatter":true}
 ---
 
 _Adicione suas fotos e lembretes visuais aqui para capturar a essência do passeio._

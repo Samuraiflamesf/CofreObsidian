@@ -1,5 +1,5 @@
 ---
-{"Title":"📚 Tutoriais do YouTube","created":"2024-11-05","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/3.Caixa de Entrada/Tutoriais do YouTube/","dgPassFrontmatter":true}
+{"Title":"📚 Tutoriais do YouTube","created":"2024-11-05","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/3-caixa-de-entrada/tutoriais-do-you-tube/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

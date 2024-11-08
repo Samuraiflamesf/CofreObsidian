@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Title":"Jogo de Palavras","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1.Minha Vida/Jogo de Palavras/","dgPassFrontmatter":true}
+{"dg-publish":true,"Title":"Jogo de Palavras","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1-minha-vida/jogo-de-palavras/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

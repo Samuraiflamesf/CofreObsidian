@@ -1,5 +1,5 @@
 ---
-{"Title":"✨ Museu do Mar - aleixo Belov","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4.Review do Caos/Museu do Mar - aleixo Belov/","dgPassFrontmatter":true}
+{"Title":"✨ Museu do Mar - aleixo Belov","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4-review-do-caos/museu-do-mar-aleixo-belov/","dgPassFrontmatter":true}
 ---
 
 ![Museu do Mar - aleixo Belov-20241108103215628.webp](/img/user/0.Settings/img/Museu%20do%20Mar%20-%20aleixo%20Belov-20241108103215628.webp)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Introdução ao Python","created":"2024-08-12","tags":["pessoal/estudos","python"],"permalink":"/1.Minha Vida/Introdução ao Python/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Introdução ao Python","created":"2024-08-12","tags":["pessoal/estudos","python"],"permalink":"/1-minha-vida/introducao-ao-python/","dgPassFrontmatter":true}
 ---
 
 | [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]]|

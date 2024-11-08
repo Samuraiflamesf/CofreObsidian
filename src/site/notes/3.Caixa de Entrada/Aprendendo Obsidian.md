@@ -1,5 +1,5 @@
 ---
-{"Title":"Aprendendo Obsidian","created":"2024-11-03","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/3.Caixa de Entrada/Aprendendo Obsidian/","dgPassFrontmatter":true}
+{"Title":"Aprendendo Obsidian","created":"2024-11-03","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/3-caixa-de-entrada/aprendendo-obsidian/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

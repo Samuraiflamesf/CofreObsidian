@@ -1,5 +1,5 @@
 ---
-{"Title":"Filament 3","created":"2024-05-31","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","Filament","php"],"permalink":"/1.Minha Vida/Filament/","dgPassFrontmatter":true}
+{"Title":"Filament 3","created":"2024-05-31","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","Filament","php"],"permalink":"/1-minha-vida/filament/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

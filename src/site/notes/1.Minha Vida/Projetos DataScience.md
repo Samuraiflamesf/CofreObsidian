@@ -1,5 +1,5 @@
 ---
-{"Title":"Projetos DataScience","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","python"],"permalink":"/1.Minha Vida/Projetos DataScience/","dgPassFrontmatter":true}
+{"Title":"Projetos DataScience","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","python"],"permalink":"/1-minha-vida/projetos-data-science/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) | [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]] |

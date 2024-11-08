@@ -1,5 +1,5 @@
 ---
-{"Title":"Meu Sistema de Produtividade Perfeito","created":"2024-05-24","dg-publish":true,"tags":["pessoal/estudos","obsidian"],"permalink":"/1.Minha Vida/Meu Sistema de Produtividade Perfeito/","dgPassFrontmatter":true}
+{"Title":"Meu Sistema de Produtividade Perfeito","created":"2024-05-24","dg-publish":true,"tags":["pessoal/estudos","obsidian"],"permalink":"/1-minha-vida/meu-sistema-de-produtividade-perfeito/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

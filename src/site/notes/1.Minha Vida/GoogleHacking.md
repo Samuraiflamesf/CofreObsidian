@@ -1,5 +1,5 @@
 ---
-{"Title":"GoogleHacking","created":"2024-06-07","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1.Minha Vida/GoogleHacking/","dgPassFrontmatter":true}
+{"Title":"GoogleHacking","created":"2024-06-07","dg-publish":true,"tags":["pessoal/estudos","pessoal/web"],"permalink":"/1-minha-vida/google-hacking/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

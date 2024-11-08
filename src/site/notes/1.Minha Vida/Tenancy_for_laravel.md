@@ -1,5 +1,5 @@
 ---
-{"title":"Tenancy_for_laravel","created":"2024-10-10","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","php"],"permalink":"/1.Minha Vida/Tenancy_for_laravel/","dgPassFrontmatter":true}
+{"title":"Tenancy_for_laravel","created":"2024-10-10","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","php"],"permalink":"/1-minha-vida/tenancy-for-laravel/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

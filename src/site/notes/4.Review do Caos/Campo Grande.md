@@ -1,5 +1,5 @@
 ---
-{"Title":"Campo Grande","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4.Review do Caos/Campo Grande/","dgPassFrontmatter":true}
+{"Title":"Campo Grande","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4-review-do-caos/campo-grande/","dgPassFrontmatter":true}
 ---
 
 ### 🎨 Arte & Cultura

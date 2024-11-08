@@ -1,5 +1,5 @@
 ---
-{"Title":"Livros de Informatica","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/livros","python"],"permalink":"/1.Minha Vida/Livros de Informatica/","dgPassFrontmatter":true}
+{"Title":"Livros de Informatica","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/livros","python"],"permalink":"/1-minha-vida/livros-de-informatica/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

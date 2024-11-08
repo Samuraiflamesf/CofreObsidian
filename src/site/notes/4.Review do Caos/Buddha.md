@@ -1,5 +1,5 @@
 ---
-{"Title":"🍹 Buddha Bistrô Asiático","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/bares-gastronomia"],"permalink":"/4.Review do Caos/Buddha/","dgPassFrontmatter":true}
+{"Title":"🍹 Buddha Bistrô Asiático","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/bares-gastronomia"],"permalink":"/4-review-do-caos/buddha/","dgPassFrontmatter":true}
 ---
 
 

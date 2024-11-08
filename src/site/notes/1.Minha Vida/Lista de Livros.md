@@ -1,5 +1,5 @@
 ---
-{"title":"Lista de Livros","created":"2024-11-01","dg-publish":true,"tags":["moc","pessoal/livros"],"cssclasses":["cards","cards-cover","table-max","dashboard"],"permalink":"/1.Minha Vida/Lista de Livros/","dgPassFrontmatter":true}
+{"title":"Lista de Livros","created":"2024-11-01","dg-publish":true,"tags":["moc","pessoal/livros"],"cssclasses":["cards","cards-cover","table-max","dashboard"],"permalink":"/1-minha-vida/lista-de-livros/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |  [[1.Minha Vida/Livros de Informatica\|Livros de Informatica]] | [[1.Minha Vida/Livros de Gastronomia\|Livros de Gastronomia]] |

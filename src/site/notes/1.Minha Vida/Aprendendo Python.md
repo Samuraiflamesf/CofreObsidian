@@ -1,5 +1,5 @@
 ---
-{"title":"Aprendendo Python","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","python"],"description":"Anotações sobre meu estudo em python.","permalink":"/1.Minha Vida/Aprendendo Python/","dgPassFrontmatter":true}
+{"title":"Aprendendo Python","created":"2024-08-12","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","python"],"description":"Anotações sobre meu estudo em python.","permalink":"/1-minha-vida/aprendendo-python/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

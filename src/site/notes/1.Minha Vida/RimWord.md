@@ -1,5 +1,5 @@
 ---
-{"title":"RimWord","dg-publish":true,"tags":["pessoal"],"permalink":"/1.Minha Vida/RimWord/","dgPassFrontmatter":true}
+{"title":"RimWord","dg-publish":true,"tags":["pessoal"],"permalink":"/1-minha-vida/rim-word/","dgPassFrontmatter":true}
 ---
 
 |[Voltar](index)|

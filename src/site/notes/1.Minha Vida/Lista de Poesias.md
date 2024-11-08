@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Lista de Poesias","tags":["pessoal","pessoal/list"],"description":"Aqui partilho fragmentos de versos que nasceram do meu coração","permalink":"/1.Minha Vida/Lista de Poesias/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Lista de Poesias","tags":["pessoal","pessoal/list"],"description":"Aqui partilho fragmentos de versos que nasceram do meu coração","permalink":"/1-minha-vida/lista-de-poesias/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

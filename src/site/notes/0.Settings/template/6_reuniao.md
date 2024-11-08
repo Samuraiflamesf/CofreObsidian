@@ -1,5 +1,5 @@
 ---
-{"Title":"{{title}}","dg-publish":true,"created":{"{ date }":null},"tags":["trabalho/reuniao"],"permalink":"/0.Settings/template/6_reuniao/","dgPassFrontmatter":true}
+{"Title":"{{title}}","dg-publish":true,"created":{"{ date }":null},"tags":["trabalho/reuniao"],"permalink":"/0-settings/template/6-reuniao/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

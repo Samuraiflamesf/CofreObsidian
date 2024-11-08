@@ -1,5 +1,5 @@
 ---
-{"Title":"Defumador","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev"],"permalink":"/1.Minha Vida/Defumador/","dgPassFrontmatter":true}
+{"Title":"Defumador","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev"],"permalink":"/1-minha-vida/defumador/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

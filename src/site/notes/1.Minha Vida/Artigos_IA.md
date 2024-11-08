@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Artigos_IA","created":"2024-08-12","tags":["pessoal/quaseumdev","pessoal/estudos"],"permalink":"/1.Minha Vida/Artigos_IA/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Artigos_IA","created":"2024-08-12","tags":["pessoal/quaseumdev","pessoal/estudos"],"permalink":"/1-minha-vida/artigos-ia/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

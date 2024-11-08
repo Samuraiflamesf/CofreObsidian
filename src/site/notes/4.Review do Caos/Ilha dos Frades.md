@@ -1,5 +1,5 @@
 ---
-{"Title":"Ilha dos Frades","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/4.Review do Caos/Ilha dos Frades/","dgPassFrontmatter":true}
+{"Title":"Ilha dos Frades","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/4-review-do-caos/ilha-dos-frades/","dgPassFrontmatter":true}
 ---
 
 ### 🎨 Arte & Cultura
