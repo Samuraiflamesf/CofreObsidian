@@ -1,5 +1,5 @@
 ---
-{"Title":"UFBA","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4-review-do-caos/ufba/","dgPassFrontmatter":true}
+{"Title":"UFBA","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4.Review do Caos/UFBA/","dgPassFrontmatter":true}
 ---
 
 ### 🎨 Arte & Cultura

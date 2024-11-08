@@ -1,5 +1,5 @@
 ---
-{"Title":"Pelourinho SSA","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4-review-do-caos/pelourinho-ssa/","dgPassFrontmatter":true}
+{"Title":"Pelourinho SSA","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4.Review do Caos/Pelourinho SSA/","dgPassFrontmatter":true}
 ---
 
 ### 🎨 Arte & Cultura

@@ -1,5 +1,5 @@
 ---
-{"Title":"Projeto Cinema","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos"],"permalink":"/1-minha-vida/projeto-cinema/","dgPassFrontmatter":true}
+{"Title":"Projeto Cinema","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos"],"permalink":"/1.Minha Vida/Projeto_Cinema/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

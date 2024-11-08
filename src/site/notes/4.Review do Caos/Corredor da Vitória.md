@@ -1,5 +1,5 @@
 ---
-{"Title":"Corredor da Vitória","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4-review-do-caos/corredor-da-vitoria/","dgPassFrontmatter":true}
+{"Title":"Corredor da Vitória","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4.Review do Caos/Corredor da Vitória/","dgPassFrontmatter":true}
 ---
 
 ### 🎨 Arte & Cultura

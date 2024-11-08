@@ -1,5 +1,5 @@
 ---
-{"Title":"Tutorial do Samba no UbuntuServer","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","git"],"permalink":"/1-minha-vida/samba-ubuntu/","dgPassFrontmatter":true}
+{"Title":"Tutorial do Samba no UbuntuServer","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","git"],"permalink":"/1.Minha Vida/samba_ubuntu/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

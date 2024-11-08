@@ -1,5 +1,5 @@
 ---
-{"Title":"Barra","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4-review-do-caos/barra/","dgPassFrontmatter":true}
+{"Title":"Barra","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4.Review do Caos/Barra/","dgPassFrontmatter":true}
 ---
 
 ### 🎨 Arte & Cultura

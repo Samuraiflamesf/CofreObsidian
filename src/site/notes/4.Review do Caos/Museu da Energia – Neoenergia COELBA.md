@@ -1,5 +1,5 @@
 ---
-{"Title":"✨ Museus da Energia","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4-review-do-caos/museu-da-energia-neoenergia-coelba/","dgPassFrontmatter":true}
+{"Title":"✨ Museus da Energia","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4.Review do Caos/Museu da Energia – Neoenergia COELBA/","dgPassFrontmatter":true}
 ---
 
 

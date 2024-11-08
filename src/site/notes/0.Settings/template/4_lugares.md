@@ -1,5 +1,5 @@
 ---
-{"Title":"{{title}}","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/0-settings/template/4-lugares/","dgPassFrontmatter":true}
+{"Title":"{{title}}","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/0.Settings/template/4_lugares/","dgPassFrontmatter":true}
 ---
 
 ### 🎨 Arte & Cultura

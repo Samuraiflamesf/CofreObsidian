@@ -1,5 +1,5 @@
 ---
-{"Title":"Criando Um Segundo Cérebro","created":"2024-06-14","dg-publish":true,"tags":["pessoal/livros","pessoal/ReviewCaos"],"permalink":"/4-review-do-caos/criando-um-segundo-cerebro/","dgPassFrontmatter":true}
+{"Title":"Criando Um Segundo Cérebro","created":"2024-06-14","dg-publish":true,"tags":["pessoal/livros","pessoal/ReviewCaos"],"permalink":"/4.Review do Caos/Criando Um Segundo Cérebro/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

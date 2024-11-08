@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Mapa de Atividades","draft":true,"tags":["moc","pessoal"],"description":"CheckList de atividades para serem resolvidas","permalink":"/1-minha-vida/mapade-atividades/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Mapa de Atividades","draft":true,"tags":["moc","pessoal"],"description":"CheckList de atividades para serem resolvidas","permalink":"/1.Minha Vida/MapadeAtividades/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

@@ -1,5 +1,5 @@
 ---
-{"Title":"✨ Forte de Santa Maria","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4-review-do-caos/forte-de-santa-maria/","dgPassFrontmatter":true}
+{"Title":"✨ Forte de Santa Maria","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4.Review do Caos/Forte de Santa Maria/","dgPassFrontmatter":true}
 ---
 
 

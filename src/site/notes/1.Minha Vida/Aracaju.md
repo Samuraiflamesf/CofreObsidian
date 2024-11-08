@@ -1,5 +1,5 @@
 ---
-{"title":"Aracaju","dg-publish":true,"tags":["pessoal/viagem","BA"],"permalink":"/1-minha-vida/aracaju/","dgPassFrontmatter":true}
+{"title":"Aracaju","dg-publish":true,"tags":["pessoal/viagem","BA"],"permalink":"/1.Minha Vida/Aracaju/","dgPassFrontmatter":true}
 ---
 
 | [[1.Minha Vida/BAHIA ✈️\|BAHIA ✈️]] |

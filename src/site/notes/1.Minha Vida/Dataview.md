@@ -1,5 +1,5 @@
 ---
-{"Title":"Dataview","created":"2024-11-03","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","obsidian"],"permalink":"/1-minha-vida/dataview/","dgPassFrontmatter":true}
+{"Title":"Dataview","created":"2024-11-03","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","obsidian"],"permalink":"/1.Minha Vida/Dataview/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

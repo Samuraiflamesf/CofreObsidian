@@ -1,5 +1,5 @@
 ---
-{"Title":"✨ Praia do Porto da Barra","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4-review-do-caos/praia-do-porto-da-barra/","dgPassFrontmatter":true}
+{"Title":"✨ Praia do Porto da Barra","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4.Review do Caos/Praia do Porto da Barra/","dgPassFrontmatter":true}
 ---
 
 

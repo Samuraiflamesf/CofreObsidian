@@ -1,5 +1,5 @@
 ---
-{"title":"Restaurantes","created":"2024-11-02","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/4-review-do-caos/lista-de-restaurantes/","dgPassFrontmatter":true}
+{"title":"Restaurantes","created":"2024-11-02","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/4.Review do Caos/Lista de Restaurantes/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

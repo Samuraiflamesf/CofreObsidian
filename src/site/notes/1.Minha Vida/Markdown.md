@@ -1,5 +1,5 @@
 ---
-{"Title":"Markdown","created":"2024-05-24","dg-publish":true,"tags":["pessoal/estudos","obsidian"],"permalink":"/1-minha-vida/markdown/","dgPassFrontmatter":true}
+{"Title":"Markdown","created":"2024-05-24","dg-publish":true,"tags":["pessoal/estudos","obsidian"],"permalink":"/1.Minha Vida/Markdown/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

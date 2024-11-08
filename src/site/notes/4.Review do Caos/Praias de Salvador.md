@@ -1,5 +1,5 @@
 ---
-{"Title":"Praias de Salvador","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4-review-do-caos/praias-de-salvador/","dgPassFrontmatter":true}
+{"Title":"Praias de Salvador","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4.Review do Caos/Praias de Salvador/","dgPassFrontmatter":true}
 ---
 
 ## 🌳 Atrações e Passeios ao Ar Livre

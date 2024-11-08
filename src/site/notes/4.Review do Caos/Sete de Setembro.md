@@ -1,5 +1,5 @@
 ---
-{"Title":"Sete de Setembro","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/4-review-do-caos/sete-de-setembro/","dgPassFrontmatter":true}
+{"Title":"Sete de Setembro","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/4.Review do Caos/Sete de Setembro/","dgPassFrontmatter":true}
 ---
 
 ### 🎨 Arte & Cultura

@@ -1,5 +1,5 @@
 ---
-{"Title":"Atividades para Fazer","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev"],"permalink":"/1-minha-vida/quase-um-dev/","dgPassFrontmatter":true}
+{"Title":"Atividades para Fazer","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev"],"permalink":"/1.Minha Vida/QuaseUmDev/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

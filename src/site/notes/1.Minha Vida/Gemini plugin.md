@@ -1,5 +1,5 @@
 ---
-{"Title":"Gemini plugin","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","obsidian"],"permalink":"/1-minha-vida/gemini-plugin/","dgPassFrontmatter":true}
+{"Title":"Gemini plugin","created":"2024-06-14","dg-publish":true,"tags":["pessoal/estudos","pessoal/web","obsidian"],"permalink":"/1.Minha Vida/Gemini plugin/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

@@ -1,5 +1,5 @@
 ---
-{"Title":"VIAGENS INTERNACIONAIS🛫","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/viagem","Internacional"],"permalink":"/1-minha-vida/internacionais/","dgPassFrontmatter":true}
+{"Title":"VIAGENS INTERNACIONAIS🛫","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/viagem","Internacional"],"permalink":"/1.Minha Vida/INTERNACIONAIS🛫/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

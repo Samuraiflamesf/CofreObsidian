@@ -1,5 +1,5 @@
 ---
-{"title":"Faculdade Gastronomia","created":"2024-08-01","dg-publish":true,"tags":["pessoal/estudos","pessoal/gastronomia","moc"],"description":"Anotações sobre minha faculdade de Gastronomia.","permalink":"/1-minha-vida/gastronomia-unifacs/","dgPassFrontmatter":true}
+{"title":"Faculdade Gastronomia","created":"2024-08-01","dg-publish":true,"tags":["pessoal/estudos","pessoal/gastronomia","moc"],"description":"Anotações sobre minha faculdade de Gastronomia.","permalink":"/1.Minha Vida/Gastronomia_UNIFACS/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

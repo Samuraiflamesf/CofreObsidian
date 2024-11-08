@@ -1,5 +1,5 @@
 ---
-{"Title":"Ilhas da Baía de Todos-os-Santos","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4-review-do-caos/ilhas-da-baia-de-todos-os-santos/","dgPassFrontmatter":true}
+{"Title":"Ilhas da Baía de Todos-os-Santos","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4.Review do Caos/Ilhas da Baía de Todos-os-Santos/","dgPassFrontmatter":true}
 ---
 
 ## 🌳 Atrações e Passeios ao Ar Livre

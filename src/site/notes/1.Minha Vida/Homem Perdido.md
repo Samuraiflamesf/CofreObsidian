@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Title":"Homem Perdido","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1-minha-vida/homem-perdido/","dgPassFrontmatter":true}
+{"dg-publish":true,"Title":"Homem Perdido","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1.Minha Vida/Homem Perdido/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

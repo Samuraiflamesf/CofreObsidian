@@ -1,5 +1,5 @@
 ---
-{"Title":"Rio Vermelho","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4-review-do-caos/rio-vermelho/","dgPassFrontmatter":true}
+{"Title":"Rio Vermelho","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares","SSA"],"permalink":"/4.Review do Caos/Rio Vermelho/","dgPassFrontmatter":true}
 ---
 
 ## 🍹 Bares e Experiências Gastronômicas

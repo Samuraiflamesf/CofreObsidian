@@ -1,5 +1,5 @@
 ---
-{"title":"Faculdade Data Science","created":"2024-06-20","dg-publish":true,"tags":["pessoal/estudos","pessoal/puc"],"description":"Anotações sobre minha pós em Ciência de Dados Aplicada à Saúde.","permalink":"/1-minha-vida/data-science-puc/","dgPassFrontmatter":true}
+{"title":"Faculdade Data Science","created":"2024-06-20","dg-publish":true,"tags":["pessoal/estudos","pessoal/puc"],"description":"Anotações sobre minha pós em Ciência de Dados Aplicada à Saúde.","permalink":"/1.Minha Vida/DataScience_PUC/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

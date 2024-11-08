@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Title":"Vida Monocromática","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1-minha-vida/vida-monocromatica/","dgPassFrontmatter":true}
+{"dg-publish":true,"Title":"Vida Monocromática","criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1.Minha Vida/Vida Monocromática/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

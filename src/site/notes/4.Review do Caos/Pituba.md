@@ -1,5 +1,5 @@
 ---
-{"Title":"Pituba","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/4-review-do-caos/pituba/","dgPassFrontmatter":true}
+{"Title":"Pituba","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares"],"permalink":"/4.Review do Caos/Pituba/","dgPassFrontmatter":true}
 ---
 
 ### 🎨 Arte & Cultura

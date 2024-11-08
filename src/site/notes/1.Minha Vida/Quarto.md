@@ -1,5 +1,5 @@
 ---
-{"Title":"Reforma do Quarto","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev","atividades"],"permalink":"/1-minha-vida/quarto/","dgPassFrontmatter":true}
+{"Title":"Reforma do Quarto","created":"2024-06-14","dg-publish":true,"tags":["pessoal/quaseumdev","atividades"],"permalink":"/1.Minha Vida/Quarto/","dgPassFrontmatter":true}
 ---
 
 | [Voltar](index) |

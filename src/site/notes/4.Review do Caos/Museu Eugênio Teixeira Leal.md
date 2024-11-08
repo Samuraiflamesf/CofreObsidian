@@ -1,5 +1,5 @@
 ---
-{"Title":"✨ Museu Eugênio Teixeira Leal","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4-review-do-caos/museu-eugenio-teixeira-leal/","dgPassFrontmatter":true}
+{"Title":"✨ Museu Eugênio Teixeira Leal","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4.Review do Caos/Museu Eugênio Teixeira Leal/","dgPassFrontmatter":true}
 ---
 
 ![Pasted image 20241103111537.png](/img/user/0.Settings/img/Pasted%20image%2020241103111537.png)

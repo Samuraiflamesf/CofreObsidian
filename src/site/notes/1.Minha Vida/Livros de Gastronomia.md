@@ -1,5 +1,5 @@
 ---
-{"Title":"Livros de Gastronomia","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/livros"],"permalink":"/1-minha-vida/livros-de-gastronomia/","dgPassFrontmatter":true}
+{"Title":"Livros de Gastronomia","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/livros"],"permalink":"/1.Minha Vida/Livros de Gastronomia/","dgPassFrontmatter":true}
 ---
 
 |[Voltar](index)|
