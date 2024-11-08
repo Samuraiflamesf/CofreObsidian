@@ -9,7 +9,7 @@
 - **[[4.Review do Caos/Museu de Arte Moderna da Bahia - MAM\|Museu de Arte Moderna da Bahia - MAM]]**
 - **[[Museu da Gastronomia Baiana\|Museu da Gastronomia Baiana]]**
 - **[[Casa do Carnaval da Bahia\|Casa do Carnaval da Bahia]]**
-- **[[Museu do Mar - aleixo Belov\|Museu do Mar - aleixo Belov]]**
+- **[[4.Review do Caos/Museu do Mar - aleixo Belov\|Museu do Mar - aleixo Belov]]**
 - **[[Cidade da Música da Bahia\|Cidade da Música da Bahia]]**
 - **[[Galeria Mercado\|Galeria Mercado]]**
 - **[[Casa das Historias de Salvador\|Casa das Historias de Salvador]]**
