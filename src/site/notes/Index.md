@@ -52,22 +52,18 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 324
+    -   📝 Total de Notas no Cofre: 336
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 159
 # 📥 Caixa de Entrada
-| File                                                                         | Criado em                    |
-| ---------------------------------------------------------------------------- | ---------------------------- |
-| [[3.Caixa de Entrada/Filmes\|Filmes]]                                     | 2:21 PM - November 03, 2024  |
-| [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]           | 2:23 PM - November 03, 2024  |
-| [[3.Caixa de Entrada/Configuração de ambiente\|Configuração de ambiente]] | 2:26 PM - November 03, 2024  |
-| [[3.Caixa de Entrada/Santo Amaro\|Santo Amaro]]                           | 2:30 PM - November 03, 2024  |
-| [[3.Caixa de Entrada/Rio de Janeiro, RJ\|Rio de Janeiro, RJ]]             | 2:33 PM - November 03, 2024  |
-| [[3.Caixa de Entrada/Trilhas SSA\|Trilhas SSA]]                           | 11:15 PM - November 04, 2024 |
-| [[3.Caixa de Entrada/Tutoriais do YouTube\|Tutoriais do YouTube]]         | 10:29 AM - November 05, 2024 |
-| [[3.Caixa de Entrada/Dominando LaTeX\|Dominando LaTeX]]                   | 1:43 PM - November 05, 2024  |
-| [[3.Caixa de Entrada/Dominando\|Dominando]]                               | 1:45 PM - November 05, 2024  |
-| [[3.Caixa de Entrada/documentclass\|documentclass]]                       | 4:16 PM - November 05, 2024  |
+| File                                                                 | Criado em                    |
+| -------------------------------------------------------------------- | ---------------------------- |
+| [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]   | 2:23 PM - November 03, 2024  |
+| [[3.Caixa de Entrada/Tutoriais do YouTube\|Tutoriais do YouTube]] | 10:29 AM - November 05, 2024 |
+| [[3.Caixa de Entrada/Dominando LaTeX\|Dominando LaTeX]]           | 1:43 PM - November 05, 2024  |
+| [[3.Caixa de Entrada/documentclass\|documentclass]]               | 4:16 PM - November 05, 2024  |
+| [[3.Caixa de Entrada/Largo Tereza Batista\|Largo Tereza Batista]] | 11:42 AM - November 08, 2024 |
+| [[3.Caixa de Entrada/Praça das Artes\|Praça das Artes]]           | 11:43 AM - November 08, 2024 |
 
 { .block-language-dataview}
 ---

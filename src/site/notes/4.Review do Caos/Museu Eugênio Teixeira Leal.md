@@ -2,8 +2,7 @@
 {"Title":"✨ Museu Eugênio Teixeira Leal","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/museus"],"permalink":"/4-review-do-caos/museu-eugenio-teixeira-leal/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20241103111537.png](/img/user/0.Settings/img/Pasted%20image%2020241103111537.png)
-![[20241030_102037.mp4\|20241030_102037.mp4]]
+![[1108 (1).mp4]]
 - **Localização**: R. do Açouguinho, 1 - Pelourinho, Salvador - BA, 40026-180
 - **Horário de Funcionamento**: seg a sex, entre 9h as 18h
 - **Custo Estimado**: Aproveitar as quartas de Free Pelo

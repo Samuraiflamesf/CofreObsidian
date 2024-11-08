@@ -4,7 +4,7 @@
 
 | [Voltar](index) |
 ## Conteúdos
-[[3.Caixa de Entrada/Configuração de ambiente\|Configuração de ambiente]]
+[[Configuração de ambiente\|Configuração de ambiente]]
 [[1.Minha Vida/Introdução ao Python\|Introdução ao Python]]
 [[1.Minha Vida/Introdução ao Pandas\|Introdução ao Pandas]]
 [[1.Minha Vida/Introdução ao graficos do Pandas\|Introdução ao graficos do Pandas]]

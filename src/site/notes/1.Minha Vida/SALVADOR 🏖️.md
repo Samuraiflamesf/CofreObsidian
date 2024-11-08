@@ -62,13 +62,15 @@
   <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
 <h3 data-heading="🎨 Arte &amp; Cultura" dir="auto">🎨 Arte &amp; Cultura</h3>
 <ul>
+<li dir="auto"><strong><a data-href="Museu da Gastronomia Baiana" href="Museu da Gastronomia Baiana" class="internal-link" target="_blank" rel="noopener nofollow">Museu&nbsp;da Gastronomia Baiana</a></strong></li>
 <li dir="auto"><strong><a data-href="Fundação Casa de Jorge Amado" href="Fundação Casa de Jorge Amado" class="internal-link" target="_blank" rel="noopener nofollow">Fundação Casa de Jorge Amado</a></strong></li>
 <li dir="auto"><strong><a data-href="Museu da Energia – Neoenergia COELBA" href="Museu da Energia – Neoenergia COELBA" class="internal-link" target="_blank" rel="noopener nofollow">Museu da Energia – Neoenergia COELBA</a></strong></li>
 <li dir="auto"><strong><a data-href="Museu Eugênio Teixeira Leal" href="Museu Eugênio Teixeira Leal" class="internal-link" target="_blank" rel="noopener nofollow">Museu Eugênio Teixeira Leal</a></strong></li>
 <li dir="auto"><strong><a data-href="Museu de Arte Moderna da Bahia - MAM" href="Museu de Arte Moderna da Bahia - MAM" class="internal-link" target="_blank" rel="noopener nofollow">Museu de Arte Moderna da Bahia - MAM</a></strong></li>
-<li dir="auto"><strong><a data-href="Museu da Gastronomia Baiana" href="Museu da Gastronomia Baiana" class="internal-link" target="_blank" rel="noopener nofollow">Museu&nbsp;da Gastronomia Baiana</a></strong></li>
-<li dir="auto"><strong><a data-href="Casa do Carnaval da Bahia" href="Casa do Carnaval da Bahia" class="internal-link" target="_blank" rel="noopener nofollow">Casa do Carnaval da Bahia</a></strong></li>
 <li dir="auto"><strong><a data-href="Museu do Mar - aleixo Belov" href="Museu do Mar - aleixo Belov" class="internal-link" target="_blank" rel="noopener nofollow">Museu do Mar - aleixo Belov</a></strong></li>
+<li dir="auto"><a data-href="Chafariz do Terreiro de Jesus" href="Chafariz do Terreiro de Jesus" class="internal-link" target="_blank" rel="noopener nofollow">Chafariz do Terreiro de Jesus</a></li>
+<li dir="auto"><a data-href="Casa 39" href="Casa 39" class="internal-link" target="_blank" rel="noopener nofollow">Casa 39</a></li>
+<li dir="auto"><strong><a data-href="Casa do Carnaval da Bahia" href="Casa do Carnaval da Bahia" class="internal-link" target="_blank" rel="noopener nofollow">Casa do Carnaval da Bahia</a></strong></li>
 <li dir="auto"><strong><a data-href="Cidade da Música da Bahia" href="Cidade da Música da Bahia" class="internal-link" target="_blank" rel="noopener nofollow">Cidade da Música da Bahia</a></strong></li>
 <li dir="auto"><strong><a data-href="Galeria Mercado" href="Galeria Mercado" class="internal-link" target="_blank" rel="noopener nofollow">Galeria Mercado</a></strong></li>
 <li dir="auto"><strong><a data-href="Casa das Historias de Salvador" href="Casa das Historias de Salvador" class="internal-link" target="_blank" rel="noopener nofollow">Casa das Historias de Salvador</a></strong></li>
@@ -91,19 +93,20 @@
 <h2 data-heading="🍹 Bares e Experiências Gastronômicas" dir="auto">🍹 Bares e Experiências Gastronômicas</h2>
 <ul>
 <li dir="auto"><strong>Nome Restaurante:</strong> <a data-href="Allê Varanda Bar" href="Allê Varanda Bar" class="internal-link" target="_blank" rel="noopener nofollow">Allê Varanda Bar</a></li>
+<li dir="auto"><strong>Nome Restaurante:</strong> <a data-href="Poró" href="Poró" class="internal-link" target="_blank" rel="noopener nofollow">Poró</a></li>
 <li dir="auto"><strong>Nome do Bar:</strong> <a data-href="Cravinho Bar" href="Cravinho Bar" class="internal-link" target="_blank" rel="noopener nofollow">Cravinho Bar</a></li>
 </ul>
 <hr>
 <h2 data-heading="🌳 Atrações e Passeios ao Ar Livre" dir="auto">🌳 Atrações e Passeios ao Ar Livre</h2>
 <ul>
+<li dir="auto"><a data-href="Monumento Visconde de Cairu" href="Monumento Visconde de Cairu" class="internal-link" target="_blank" rel="noopener nofollow">Monumento Visconde de Cairu</a></li>
 <li dir="auto"><a data-href="Largo Tereza Batista" href="Largo Tereza Batista" class="internal-link" target="_blank" rel="noopener nofollow">Largo Tereza Batista</a></li>
+<li dir="auto"><a data-href="Praça das Artes" href="Praça das Artes" class="internal-link" target="_blank" rel="noopener nofollow">Praça das Artes</a></li>
 <li dir="auto">Largo do Pelourinho</li>
 <li dir="auto">Largo do Cruzeiro</li>
 <li dir="auto">Largo Terreiro de Jesus</li>
-<li dir="auto"><a data-href="Praça das Artes" href="Praça das Artes" class="internal-link" target="_blank" rel="noopener nofollow">Praça das Artes</a></li>
 <li dir="auto">Praça da Sé</li>
 <li dir="auto">Praça Tomé de Souza</li>
-<li dir="auto"><a data-href="Monumento Visconde de Cairu" href="Monumento Visconde de Cairu" class="internal-link" target="_blank" rel="noopener nofollow">Monumento Visconde de Cairu</a></li>
 <li dir="auto">Visita ao Terraço da <a data-href="A varanda do Casarão 17" href="A varanda do Casarão 17" class="internal-link" target="_blank" rel="noopener nofollow">A varanda do Casarão 17</a></li>
 </ul>
 <h2 data-heading="🦔 Experiências Diferentes" dir="auto">🦔 Experiências Diferentes</h2>
