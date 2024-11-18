@@ -1,6 +1,5 @@
----
-dg-publish: true
-titulo: "Prova Final"
+---dg-publish: true
+titulo: Prova Final
 tipo: Filme
 ano: "1998"
 gênero:
@@ -9,8 +8,8 @@ gênero:
   - Mistério
 image: https://image.tmdb.org/t/p/w500/leVEAb37sssYg8qLeo46Pc8IcH9.jpg
 lançado: 1998-12-25
-assistido: false
-nota:
+assistido: true
+nota: "6.5"
 tags:
   - filme
   - pessoal

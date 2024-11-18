@@ -5,7 +5,7 @@
 | [Voltar](index) |
 
 Lista de Restaurantes Visitados:
-- [[4.Review do Caos/Buddha\|Buddha]]: 🍹 Buddha Bistrô Asiático
 - [[4.Review do Caos/Poró\|Poró]]: 🍹 Poró
+- [[4.Review do Caos/Buddha\|Buddha]]: 🍹 Buddha Bistrô Asiático
 
 { .block-language-dataview}
