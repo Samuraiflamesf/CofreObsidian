@@ -2,7 +2,7 @@
 {"cssClasses":["dashboard"],"banner":"![bpxxqqvps4h91.gif](/img/user/0.Settings/img/bpxxqqvps4h91.gif)","banner_y":0.77667,"title":"Trees of knowledge","dg-home":true,"dg-publish":true,"permalink":"/index/","contentClasses":"dashboard","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-
+****
 > Bem-vindo ao meu espaço pessoal! Este site foi criado para organizar e compartilhar minhas notas de estudo, anotações de trabalho e outros recursos úteis. Aqui você encontrará uma variedade de informações e ferramentas que uso no meu dia a dia profissional e acadêmico.
 
 # 🌱 Minha Vida
@@ -52,7 +52,7 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 349
+    -   📝 Total de Notas no Cofre: 351
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 160
 # 📥 Caixa de Entrada

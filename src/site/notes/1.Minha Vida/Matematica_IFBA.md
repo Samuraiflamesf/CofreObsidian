@@ -11,14 +11,14 @@
 | Introdução à Física                              | Aprovado |
 | Mecânica e Gravitação                            | -        |
 | Introdução à Matemática                          | Aprovado |
-| Matemática Financeira                            | -        |
+| Matemática Financeira                            | Aprovado |
 | Probabilidade e Estatística                      | Aprovado |
 | Cálculo Diferencial e Integral I                 | Aprovado |
 | Cálculo Diferencial e Integral II                | Aprovado |
 | Cálculo Diferencial e Integral III               | -        |
 | Cálculo Diferencial e Integral IV                | Aprovado |
 | Cálculo Numérico                                 | -        |
-| Análise Real                                     | -        |
+| Análise Real                                     | Aprovado |
 | Variáveis Complexas                              | Aprovado |
 | Fundamentos de Matemática I                      | Aprovado |
 | Fundamentos de Matemática II                     | Aprovado |
@@ -29,9 +29,9 @@
 | Álgebra II                                       | -        |
 | Metodologia e Prática do Ensino da Matemática I  | Aprovado |
 | Metodologia e Prática do Ensino da Matemática II | -        |
-| Laboratório de Ensino Em Matemática              | -        |
+| Laboratório de Ensino Em Matemática              | Aprovado |
 | Metodologia da Pesquisa do Ensino de Matemática  | -        |
-| Estágio Supervisionado Em Matemática I           | -        |
+| Estágio Supervisionado Em Matemática I           | Aprovado |
 | Estágio Supervisionado Em Matemática II          | -        |
 | Estágio Supervisionado Em Matemática III         | -        |
 | Estágio Supervisionado Em Matemática IV          | -        |
