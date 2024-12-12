@@ -6,7 +6,7 @@
 ## Resenha sobre o assunto:
 Aprender metodos de organizacao, de modo que crie-se um ambiente mais produtivo. Ideia central è controlar a mente e seus estados mentais para chegar em um equilibrio entre desejos e trabalho.
 ### Principais Conceitos
-- [[Definicao de Produtividade\|Definicao de Produtividade]]
+- [[3.Caixa de Entrada/Definicao de Produtividade\|Definicao de Produtividade]]
 - [[Aprendendo a controlar sua mente\|Aprendendo a controlar sua mente]]
 - [[O ambiente perfeito\|O ambiente perfeito]]
 - [[Usando a Procrastinacao aseu favor\|Usando a Procrastinacao aseu favor]]

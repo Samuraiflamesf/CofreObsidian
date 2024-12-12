@@ -36,7 +36,6 @@
     ```
      git flow init
     ```
-1. 
-2. 
+
 Agora, o servidor web deve estar em execução e você pode acessar o seu projeto Laravel em:
 http://localhost:8000

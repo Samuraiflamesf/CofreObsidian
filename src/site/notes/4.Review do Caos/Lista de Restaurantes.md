@@ -7,5 +7,6 @@
 Lista de Restaurantes Visitados:
 - [[4.Review do Caos/Poró\|Poró]]: 🍹 Poró
 - [[4.Review do Caos/Buddha\|Buddha]]: 🍹 Buddha Bistrô Asiático
+- [[3.Caixa de Entrada/Bar Tal\|Bar Tal]]: 🍹 Bar Tal
 
 { .block-language-dataview}

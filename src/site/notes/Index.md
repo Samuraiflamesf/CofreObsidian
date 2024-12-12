@@ -1,5 +1,5 @@
 ---
-{"cssClasses":["dashboard"],"banner":"![bpxxqqvps4h91.gif](/img/user/0.Settings/img/bpxxqqvps4h91.gif)","banner_y":0.77667,"title":"Trees of knowledge","dg-home":true,"dg-publish":true,"permalink":"/index/","contentClasses":"dashboard","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"Trees of knowledge","dg-home":true,"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ****
@@ -45,16 +45,16 @@
 
 { .block-language-dataview}
 - **🎬 Últimos Filmes Adicionados**
-    - [[0.Settings/media/filmes/A Substância (2024)\|A Substância (2024)]]
-- [[0.Settings/media/filmes/Gemini O Planeta Sombrio (2022)\|Gemini O Planeta Sombrio (2022)]]
-- [[0.Settings/media/filmes/Feriado Sangrento (2023)\|Feriado Sangrento (2023)]]
-- [[0.Settings/media/filmes/Pig A Vingança (2021)\|Pig A Vingança (2021)]]
+    - [[0.Settings/media/filmes/Cães de Guerra (2024)\|Cães de Guerra (2024)]]
+- [[0.Settings/media/filmes/Anjos da Lei 2 (2014)\|Anjos da Lei 2 (2014)]]
+- [[0.Settings/media/filmes/Anjos da Lei (2012)\|Anjos da Lei (2012)]]
+- [[0.Settings/media/filmes/O Babá(ca) (2011)\|O Babá(ca) (2011)]]
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 351
+    -   📝 Total de Notas no Cofre: 375
     -   📚 Total de Livros: 31
-    -   🍿 Total de Filmes: 160
+    -   🍿 Total de Filmes: 175
 # 📥 Caixa de Entrada
 | File                                                                           | Criado em                    |
 | ------------------------------------------------------------------------------ | ---------------------------- |

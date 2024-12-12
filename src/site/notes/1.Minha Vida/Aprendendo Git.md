@@ -121,3 +121,8 @@ git remote rm origin
 ```bash
 git init
 ```
+
+
+___Bruna___ deve participar ou não da mega?
+
+Deve Bruna participar da Mega?

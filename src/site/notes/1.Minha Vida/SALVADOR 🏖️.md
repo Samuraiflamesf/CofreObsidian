@@ -43,6 +43,16 @@
 <ul>
 <li dir="auto"><a data-href="Museu de Arte da Bahia - MAB" href="Museu de Arte da Bahia - MAB" class="internal-link" target="_blank" rel="noopener nofollow">Museu de Arte da Bahia - MAB</a></li>
 <li dir="auto"><a data-href="Palacete das Artes" href="Palacete das Artes" class="internal-link" target="_blank" rel="noopener nofollow">Palacete das Artes</a></li>
+</ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Costa Azul" src="Costa Azul" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Costa Azul</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Costa Azul
+<span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
+<span class="token key atrule">tags</span><span class="token punctuation">:</span>
+  <span class="token punctuation">-</span> pessoal/viagem
+  <span class="token punctuation">-</span> pessoal/lugares
+  <span class="token punctuation">-</span> SSA</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
+<h2 data-heading="🍹 Bares e Experiências Gastronômicas" dir="auto">🍹 Bares e Experiências Gastronômicas</h2>
+<ul>
+<li dir="auto"><strong>Nome Restaurante:</strong> <a data-href="Bar Tal" href="Bar Tal" class="internal-link" target="_blank" rel="noopener nofollow">Bar Tal</a></li>
+<li dir="auto"></li>
 </ul></div></span></span></p><p><span><hr></span></p><p><span><span alt="Ilhas da Baía de Todos-os-Santos" src="Ilhas da Baía de Todos-os-Santos" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title">Ilhas da Baía de Todos-os-Santos</div><div class="markdown-preview-view markdown-rendered show-indentation-guide mod-frontmatter mod-ui"><pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">Title</span><span class="token punctuation">:</span> Ilhas da Baía de Todos<span class="token punctuation">-</span>os<span class="token punctuation">-</span>Santos
 <span class="token key atrule">dg-publish</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>
 <span class="token key atrule">tags</span><span class="token punctuation">:</span>
@@ -154,7 +164,14 @@
 <li dir="auto"><strong><a data-href="Museu Afro-Brasileiro – MAFRO" href="Museu Afro-Brasileiro – MAFRO" class="internal-link" target="_blank" rel="noopener nofollow">Museu Afro-Brasileiro – MAFRO</a></strong></li>
 <li dir="auto"><strong><a data-href="Museu de Arqueologia e Etnologia da UFBA" href="Museu de Arqueologia e Etnologia da UFBA" class="internal-link" target="_blank" rel="noopener nofollow">Museu de Arqueologia e Etnologia da UFBA</a></strong></li>
 </ul></div></span></span></p><p><span><hr></span></p>
-#### Lugares 0800
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3-caixa-de-entrada/lugares-0800/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+| [Voltar](index) |
 - [ ]  Igreja do Bonfim
 - [ ]  Santo Antônio Além do Carmo
 - [ ]  Blue Praia Bar. Rio Vermelho. Salvador Bahia.
@@ -169,9 +186,8 @@
 - [ ]  Capela da Beata Lindalva Justo
 - [ ]  Bairro do Candeal
 - [ ]  Igrejinha de Loreto
-- [ ]  Casa do Benin
+- [x]  Casa do Benin
 - [ ]  Casa do Rio Vermelho
-	às quartas-feiras a entrada é gratuita
 - [ ]  Convento de Santa Clara do Desterro
 - [ ]  Imbassaí
 - [ ]  Parque da Cidade
@@ -179,19 +195,34 @@
 - [ ]  Parque de Pituaçu
 - [ ]  Farol de Itapuã
 - [ ]  Guarajuba
-
 - [ ]  Parque Pedra de Xangô
-
-
 - [ ]  Farol da Barra
-
-
 - [ ]  Castelo Garcia D'Ávila
 - [ ]  Antique Bistrô
+- [ ] Instituto Feminino da Bahia - Museu do Bahia
 - [ ]  O terraço do Fera
 - [ ]  Praia da Ponta de Nossa Senhora de Guadalupe
+- [ ] Museu Carlos e Margarida Costa Pinto
+- [ ] Museu Antropológico Estácio de Lima?
+- [ ] Museu da Misericórdia
+- [ ] Cidade da Música da Bahia - (gratuito às quartas)
+- [ ] Museu do Mar Aleixo Belov - (gratuito às quartas)
+- [ ] Forte São Diogo - (gratuito às quartas)
+- [ ] Forte de Santa Maria - (gratuito)
+- [ ] MAM - Museu de Arte Moderna da Bahia - (gratuito todos os dias)
+- [ ] Memorial e Santuário Santa Dulce - (gratuito todos os dias)
+- [ ] Basílica do Senhor do Bonfim - (gratuito todos os dias)
+- [ ] Museu da Gastronomia Baiana (gratuito todos os dias)
+- [ ] Forte Monte Serrat - (gratuito às quartas)
+- [ ] A Casa do Rio Vermelho - Jorge Amado e Zélia Gattai - (gratuito às quartas)
+- [ ] Museu de Arte Contemporânea da Bahia - MAC Bahia (gratuito todos os dias)
+- [ ] MUNCAB - Museu Nacional da Cultura Afro-Brasileira (gratuito às quartas)
+- [ ] Casa das Histórias de Salvador (gratuitos às quartas)
+- [ ] Galeria Mercado (gratuito às quartas)
+- [ ] Casa do Benin (gratuito todos os dias)
 
 
+</div></div>
 
 ## 🦔 Experiências Diferentes para Vida
 - Tomar Tequila

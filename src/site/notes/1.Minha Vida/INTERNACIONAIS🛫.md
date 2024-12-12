@@ -6,6 +6,7 @@
 ## Eventos
 - [ ] San Diego Comic Con
 - [ ] Supercharged Entertainment, 987 US-1, Edison, NJ 08817, Estados Unidos
+- [ ] Museu do Corpus na Holanda
 ### América do Sul
 1. [[4.Review do Caos/Bolívia - Santa Cruz\|Bolívia - Santa Cruz]]
 2. [[Chile - Santiago\|Chile - Santiago]]
@@ -23,3 +24,4 @@
 2. Portugal, Porto
 3. Itália
 4. Alemanha
+5. 

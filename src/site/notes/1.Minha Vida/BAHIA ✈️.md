@@ -1,9 +1,9 @@
 ---
-{"Title":"VIAGENS BAHIA ✈️","created":"2024-06-14","dg-publish":true,"tags":["pessoal/list","pessoal/viagem"],"permalink":"/1-minha-vida/bahia/","dgPassFrontmatter":true}
+{"Title":"VIAGENS BAHIA ✈️","created":"2024-12-06","dg-publish":true,"tags":["pessoal/list","pessoal/viagem"],"permalink":"/1-minha-vida/bahia/","dgPassFrontmatter":true}
 ---
 
-| [Voltar](index) |
-#### BAHIA 
+| [Voltar](index) | 
+## Lugares para Visitar
 - [ ] [[1.Minha Vida/Madre de deus\|Madre de deus]]
 - [ ] [[1.Minha Vida/Aracaju\|Aracaju]]
 - [ ] [[4.Review do Caos/Santo Amaro\|Santo Amaro]]
