@@ -38,36 +38,36 @@
 - [[2.Trabalho/MapaReuniõesTrabalho\|MapaReuniõesTrabalho]]: Anotações sobre as reuniões e eventos do Trabalho.  
 # 〽️ Estatísticas
 - 📖 Últimos Livros Adicionados
-    - [[0.Settings/books/A matemática do ensino médio Vol 1\|A matemática do ensino médio Vol 1]]
-- [[0.Settings/books/Séries e equações diferenciais\|Séries e equações diferenciais]]
-- [[0.Settings/books/Boa Noite Punpun vol 1\|Boa Noite Punpun vol 1]]
-- [[0.Settings/books/Incríveis passatempos matemáticos\|Incríveis passatempos matemáticos]]
+    - [[0.Settings/books/Iniciação a Matemática Um curso com problemas e soluções\|Iniciação a Matemática Um curso com problemas e soluções]]
+- [[0.Settings/books/Caçando Dragões - 12\|Caçando Dragões - 12]]
+- [[0.Settings/books/Olimpíadas brasileiras de matemática 9 a 16\|Olimpíadas brasileiras de matemática 9 a 16]]
+- [[0.Settings/books/Como fazer projetos de iniciação científica\|Como fazer projetos de iniciação científica]]
 
 { .block-language-dataview}
 - **🎬 Últimos Filmes Adicionados**
-    - [[0.Settings/media/filmes/Cães de Guerra (2024)\|Cães de Guerra (2024)]]
-- [[0.Settings/media/filmes/Anjos da Lei 2 (2014)\|Anjos da Lei 2 (2014)]]
-- [[0.Settings/media/filmes/Anjos da Lei (2012)\|Anjos da Lei (2012)]]
-- [[0.Settings/media/filmes/O Babá(ca) (2011)\|O Babá(ca) (2011)]]
+    - [[0.Settings/media/filmes/Caranguejo Negro (2022)\|Caranguejo Negro (2022)]]
+- [[0.Settings/media/filmes/O Silêncio dos Inocentes (1991)\|O Silêncio dos Inocentes (1991)]]
+- [[0.Settings/media/filmes/Mistério em Alto Mar (2023)\|Mistério em Alto Mar (2023)]]
+- [[0.Settings/media/filmes/Kill Bill Volume 1 (2003)\|Kill Bill Volume 1 (2003)]]
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 375
+    -   📝 Total de Notas no Cofre: 376
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 175
 # 📥 Caixa de Entrada
-| File                                                                           | Criado em                    |
-| ------------------------------------------------------------------------------ | ---------------------------- |
-| [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]             | 2:23 PM - November 03, 2024  |
-| [[3.Caixa de Entrada/Tutoriais do YouTube\|Tutoriais do YouTube]]           | 10:29 AM - November 05, 2024 |
-| [[3.Caixa de Entrada/Dominando LaTeX\|Dominando LaTeX]]                     | 1:43 PM - November 05, 2024  |
-| [[3.Caixa de Entrada/documentclass\|documentclass]]                         | 4:16 PM - November 05, 2024  |
-| [[3.Caixa de Entrada/Largo Tereza Batista\|Largo Tereza Batista]]           | 11:42 AM - November 08, 2024 |
-| [[3.Caixa de Entrada/Praça das Artes\|Praça das Artes]]                     | 11:43 AM - November 08, 2024 |
-| [[3.Caixa de Entrada/SSD\|SSD]]                                             | 12:58 PM - November 11, 2024 |
-| [[3.Caixa de Entrada/OLAP\|OLAP]]                                           | 12:59 PM - November 11, 2024 |
-| [[3.Caixa de Entrada/Dicionario Data Discovery\|Dicionario Data Discovery]] | 1:01 PM - November 11, 2024  |
-| [[3.Caixa de Entrada/Análise Preditiva\|Análise Preditiva]]                 | 1:06 PM - November 11, 2024  |
+| File                                                                             | Criado em                    |
+| -------------------------------------------------------------------------------- | ---------------------------- |
+| [[3.Caixa de Entrada/Costa Azul\|Costa Azul]]                                 | 10:52 PM - December 17, 2024 |
+| [[3.Caixa de Entrada/Dicionario Data Discovery\|Dicionario Data Discovery]]   | 10:52 PM - December 17, 2024 |
+| [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]               | 10:52 PM - December 17, 2024 |
+| [[3.Caixa de Entrada/Bar Tal\|Bar Tal]]                                       | 10:52 PM - December 17, 2024 |
+| [[3.Caixa de Entrada/ApenasUmPrato_filament3\|ApenasUmPrato_filament3]]       | 10:52 PM - December 17, 2024 |
+| [[3.Caixa de Entrada/Deploy Laravel com Coolify\|Deploy Laravel com Coolify]] | 10:52 PM - December 17, 2024 |
+| [[3.Caixa de Entrada/Aprendendo PhP\|Aprendendo PhP]]                         | 10:52 PM - December 17, 2024 |
+| [[3.Caixa de Entrada/Definicao de Produtividade\|Definicao de Produtividade]] | 10:52 PM - December 17, 2024 |
+| [[3.Caixa de Entrada/Dominando LaTeX\|Dominando LaTeX]]                       | 10:52 PM - December 17, 2024 |
+| [[3.Caixa de Entrada/Análise Preditiva\|Análise Preditiva]]                   | 10:52 PM - December 17, 2024 |
 
 { .block-language-dataview}
 ---

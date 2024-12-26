@@ -23,6 +23,6 @@ O método "Segundo Cérebro" se baseia nos seguintes princípios:
 **Conclusão**
 "Criando Um Segundo Cérebro" é um guia valioso para pessoas que buscam melhorar sua organização, aumentar sua produtividade e recuperar o controle de suas vidas ocupadas. Ao seguir os princípios e práticas descritos neste livro, você pode criar uma poderosa ferramenta que otimizará sua vida pessoal e profissional.
 ### References
-1. [[Criando Um Segundo Cérebro Um Método.pdf]]
+1. [[Criando Um Segundo Cérebro Um Método.pdf\|Criando Um Segundo Cérebro Um Método.pdf]]
 
 

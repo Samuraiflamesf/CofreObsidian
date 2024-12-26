@@ -37,20 +37,15 @@ Ao iniciar o editor de texto, documente o propósito do recurso criado. Em segui
 ### 3. Criar um Release
 Para preparar uma nova versão, um branch `release` é criado a partir do `develop`.
 ```bash
-git flow release start v1.0.0"
+git flow release start v1.0.0
+```
+Vamos publicar o release para o repositório remoto:
+```bash
+git flow release publish v1.0.0
 ```
 Após testes e ajustes, ele é mesclado no `main` e `develop`. Um **tag** pode ser adicionado:
 ```bash
-git flow release finish 'v1.0.0'
-```
-### 4. Criar um Hotfix
-Caso seja necessário corrigir um bug urgente na produção, cria-se um branch `hotfix` a partir do `main`.
-```bash
-git flow hotfix start corrigir-bug
-```
-Depois de corrigido, o `hotfix` é mesclado no `main` e `develop`:
-```bash
-git flow hotfix finish corrigir-bug
+git flow release finish v1.0.0
 ```
 ## Comandos Auxiliares
 **Listar features** em desenvolvimento:
