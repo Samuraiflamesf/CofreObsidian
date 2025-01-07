@@ -21,11 +21,11 @@
 | [[Cozinha Brasileira\|Cozinha Brasileira]]                               |
 | [[Cozinha Internacional\|Cozinha Internacional]]                            |
 | [[Gastronomia Contemporânea\|Gastronomia Contemporânea]]                        |
-| [[Projeto em Gastronomia Aplicada\|Projeto em Gastronomia Aplicada]]                  |
+| [[3.Caixa de Entrada/Projeto em Gastronomia Aplicada\|Projeto em Gastronomia Aplicada]]                  |
 | [[Processo Criativo em Gastronomia\|Processo Criativo em Gastronomia]]                 |
 | [[Panificação\|Panificação]]                                      |
 | [[Confeitaria\|Confeitaria]]                                      |
-| [[Cozinha Européia\|Cozinha Européia]]                                 |
+| [[3.Caixa de Entrada/Cozinha Européia\|Cozinha Européia]]                                 |
 | [[Bebidas e Harmonizacões\|Bebidas e Harmonizacões]]                          |
 | [[Planeamento e Gestao em Gastronomia\|Planeamento e Gestao em Gastronomia]]              |
 

@@ -6,7 +6,7 @@
 - **Nome do Local:** [[4.Review do Caos/Praia do Porto da Barra\|Praia do Porto da Barra]]
 - **Nome do Local:** [[Praia do Farol da Barra\|Praia do Farol da Barra]]
 - **Nome do Local:** [[Praia de Itapuã\|Praia de Itapuã]]
-- **Nome do Local:** [[Praia do Flamengo\|Praia do Flamengo]]
+- **Nome do Local:** [[3.Caixa de Entrada/Praia do Flamengo\|Praia do Flamengo]]
 - **Nome do Local:** [[Praia da Gamboa\|Praia da Gamboa]]
 - **Nome do Local:** [[Prainha do MAM\|Prainha do MAM]]
 - **Nome do Local:** [[Praia do Rio Vermelho\|Praia do Rio Vermelho]]

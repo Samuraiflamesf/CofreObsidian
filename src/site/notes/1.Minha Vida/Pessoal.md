@@ -1,11 +1,7 @@
 ---
-Title: Pessoal
-created: 2024-05-24
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - atividades
+{"Title":"Pessoal","created":"2024-05-24","dg-publish":true,"tags":["pessoal/estudos","atividades"],"permalink":"/1-minha-vida/pessoal/","dgPassFrontmatter":true}
 ---
+
 | [Voltar](index) |
 ### Atividades
 - SPA

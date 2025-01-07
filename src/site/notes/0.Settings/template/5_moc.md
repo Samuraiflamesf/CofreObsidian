@@ -8,4 +8,4 @@
 
 { .block-language-dataview}
 
-| [Voltar](1.LIFE/index) | 
+| [Voltar](index) | 

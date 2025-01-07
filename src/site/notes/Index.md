@@ -20,10 +20,10 @@
     - [[1.Minha Vida/Lista de Filmes e Series\|Lista de Filmes e Series]]
     - [[4.Review do Caos/Lista de Restaurantes\|Lista de Restaurantes]]
 - 🎴 Minhas Experiências
-    - [[1.Minha Vida/INTERNACIONAIS🛫\|INTERNACIONAIS🛫]]
-    - [[1.Minha Vida/BRASIL 🛩\|BRASIL 🛩]]
-    - [[1.Minha Vida/BAHIA ✈️\|BAHIA ✈️]]
-    - [[1.Minha Vida/SALVADOR 🏖️\|SALVADOR 🏖️]]
+    - [[1.Minha Vida/INTERNACIONAIS\|INTERNACIONAIS]]
+    - [[1.Minha Vida/BRASIL\|BRASIL]]
+    - [[1.Minha Vida/BAHIA\|BAHIA]]
+    - [[1.Minha Vida/Salvador\|Salvador]]
 # 👨‍🎓 Faculdade
 - ➗ Faculdade de [[1.Minha Vida/Matematica_IFBA\|Matematica_IFBA]]
     - [[Estatística Geral - Teoria e Aplicações\|Estatística Geral - Teoria e Aplicações]]
@@ -38,36 +38,36 @@
 - [[2.Trabalho/MapaReuniõesTrabalho\|MapaReuniõesTrabalho]]: Anotações sobre as reuniões e eventos do Trabalho.  
 # 〽️ Estatísticas
 - 📖 Últimos Livros Adicionados
-    - [[0.Settings/books/Iniciação a Matemática Um curso com problemas e soluções\|Iniciação a Matemática Um curso com problemas e soluções]]
-- [[0.Settings/books/Caçando Dragões - 12\|Caçando Dragões - 12]]
-- [[0.Settings/books/Olimpíadas brasileiras de matemática 9 a 16\|Olimpíadas brasileiras de matemática 9 a 16]]
-- [[0.Settings/books/Como fazer projetos de iniciação científica\|Como fazer projetos de iniciação científica]]
+    - [[0.Settings/books/1984\|1984]]
+- [[0.Settings/books/A matemática do ensino médio Vol 3\|A matemática do ensino médio Vol 3]]
+- [[0.Settings/books/Teoria dos Números vol 5\|Teoria dos Números vol 5]]
+- [[0.Settings/books/Iniciação a Matemática Um curso com problemas e soluções\|Iniciação a Matemática Um curso com problemas e soluções]]
 
 { .block-language-dataview}
 - **🎬 Últimos Filmes Adicionados**
-    - [[0.Settings/media/filmes/Caranguejo Negro (2022)\|Caranguejo Negro (2022)]]
-- [[0.Settings/media/filmes/O Silêncio dos Inocentes (1991)\|O Silêncio dos Inocentes (1991)]]
-- [[0.Settings/media/filmes/Mistério em Alto Mar (2023)\|Mistério em Alto Mar (2023)]]
-- [[0.Settings/media/filmes/Kill Bill Volume 1 (2003)\|Kill Bill Volume 1 (2003)]]
+    - [[0.Settings/media/filmes/Cães de Guerra (2024)\|Cães de Guerra (2024)]]
+- [[0.Settings/media/filmes/Anjos da Lei 2 (2014)\|Anjos da Lei 2 (2014)]]
+- [[0.Settings/media/filmes/Anjos da Lei (2012)\|Anjos da Lei (2012)]]
+- [[0.Settings/media/filmes/O Babá(ca) (2011)\|O Babá(ca) (2011)]]
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: 376
+    -   📝 Total de Notas no Cofre: 377
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 175
 # 📥 Caixa de Entrada
-| File                                                                             | Criado em                    |
-| -------------------------------------------------------------------------------- | ---------------------------- |
-| [[3.Caixa de Entrada/Costa Azul\|Costa Azul]]                                 | 10:52 PM - December 17, 2024 |
-| [[3.Caixa de Entrada/Dicionario Data Discovery\|Dicionario Data Discovery]]   | 10:52 PM - December 17, 2024 |
-| [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]               | 10:52 PM - December 17, 2024 |
-| [[3.Caixa de Entrada/Bar Tal\|Bar Tal]]                                       | 10:52 PM - December 17, 2024 |
-| [[3.Caixa de Entrada/ApenasUmPrato_filament3\|ApenasUmPrato_filament3]]       | 10:52 PM - December 17, 2024 |
-| [[3.Caixa de Entrada/Deploy Laravel com Coolify\|Deploy Laravel com Coolify]] | 10:52 PM - December 17, 2024 |
-| [[3.Caixa de Entrada/Aprendendo PhP\|Aprendendo PhP]]                         | 10:52 PM - December 17, 2024 |
-| [[3.Caixa de Entrada/Definicao de Produtividade\|Definicao de Produtividade]] | 10:52 PM - December 17, 2024 |
-| [[3.Caixa de Entrada/Dominando LaTeX\|Dominando LaTeX]]                       | 10:52 PM - December 17, 2024 |
-| [[3.Caixa de Entrada/Análise Preditiva\|Análise Preditiva]]                   | 10:52 PM - December 17, 2024 |
+| File                                                                                                                               | Criado em                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[3.Caixa de Entrada/Aprendendo Obsidian\|Aprendendo Obsidian]]                                                                 | 2:24 PM - November 03, 2024  |
+| [[3.Caixa de Entrada/Dicionario Data Discovery\|Dicionario Data Discovery]]                                                     | 1:01 PM - November 11, 2024  |
+| [[3.Caixa de Entrada/Análise Preditiva\|Análise Preditiva]]                                                                     | 1:09 PM - November 11, 2024  |
+| [[3.Caixa de Entrada/ApenasUmPrato_filament3\|ApenasUmPrato_filament3]]                                                         | 11:24 PM - November 12, 2024 |
+| [[3.Caixa de Entrada/Aprendendo PhP\|Aprendendo PhP]]                                                                           | 11:53 AM - November 15, 2024 |
+| [[3.Caixa de Entrada/Costa Azul\|Costa Azul]]                                                                                   | 12:29 PM - December 09, 2024 |
+| [[3.Caixa de Entrada/Bar Tal\|Bar Tal]]                                                                                         | 12:29 PM - December 09, 2024 |
+| [[3.Caixa de Entrada/Deploy Laravel com Coolify\|Deploy Laravel com Coolify]]                                                   | 8:48 PM - January 02, 2025   |
+| [[3.Caixa de Entrada/Brincando com Área e Perímetro (Ensino Fundamental)\|Brincando com Área e Perímetro (Ensino Fundamental)]] | 9:24 PM - January 02, 2025   |
+| [[3.Caixa de Entrada/Cozinha Européia\|Cozinha Européia]]                                                                       | 12:00 PM - January 07, 2025  |
 
 { .block-language-dataview}
 ---

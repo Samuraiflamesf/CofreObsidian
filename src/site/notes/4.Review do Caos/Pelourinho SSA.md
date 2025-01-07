@@ -15,8 +15,8 @@
 - **[[Cidade da Música da Bahia\|Cidade da Música da Bahia]]**
 - **[[Galeria Mercado\|Galeria Mercado]]**
 - **[[Casa das Historias de Salvador\|Casa das Historias de Salvador]]**
-- **[[Museu de Impresa - Associação Bahiana de Imprensa\|Museu de Impresa - Associação Bahiana de Imprensa]]**
-- **[[Centro Cultural Solar Ferrão\|Centro Cultural Solar Ferrão]]**
+- **[[3.Caixa de Entrada/Museu de Impresa - Associação Bahiana de Imprensa\|Museu de Impresa - Associação Bahiana de Imprensa]]**
+- **[[3.Caixa de Entrada/Centro Cultural Solar Ferrão\|Centro Cultural Solar Ferrão]]**
 - **[[Casa do Benin\|Casa do Benin]]**
 - **[[MuNEAN - Museu Nacional de Enfermangem\|MuNEAN - Museu Nacional de Enfermangem]]**
 - **[[Memorial das Baianas de Acarajé\|Memorial das Baianas de Acarajé]]**

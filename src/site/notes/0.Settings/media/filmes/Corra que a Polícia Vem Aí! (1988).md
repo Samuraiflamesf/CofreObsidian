@@ -1,6 +1,5 @@
----
-dg-publish: true
-titulo: "Corra que a Polícia Vem Aí!"
+---dg-publish: true
+titulo: Corra que a Polícia Vem Aí!
 tipo: Filme
 ano: "1988"
 gênero:
@@ -8,8 +7,8 @@ gênero:
   - Crime
 image: https://image.tmdb.org/t/p/w500/iYCWSKbC4fwzaKEJ9QFx8MsH7bJ.jpg
 lançado: 1988-12-02
-assistido: false
-nota:
+assistido: true
+nota: "9"
 tags:
   - filme
   - pessoal

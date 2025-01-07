@@ -2,7 +2,7 @@
 {"Title":"🍹 Bar Tal","dg-publish":true,"tags":["pessoal/viagem","pessoal/lugares/bares-gastronomia"],"permalink":"/3-caixa-de-entrada/bar-tal/","dgPassFrontmatter":true}
 ---
 
-![WhatsApp Image 2024-12-09 at 12.16.42 1.webp](/img/user/0.Settings/WhatsApp%20Image%202024-12-09%20at%2012.16.42%201.webp)
+![WhatsApp Image 2024-12-09 at 12.16.42 1.webp](/img/user/0.Settings/img/WhatsApp%20Image%202024-12-09%20at%2012.16.42%201.webp)
 # Bar Tal
 _Este é o lugar para capturar as melhores experiências gastronômicas e momentos únicos com comidas e bebidas._
 - **Localização**: 
